@@ -256,6 +256,20 @@
                     "title": "在线教育网",
                     "icon": "https://logo.clearbit.com/waban.org.cn",
                     "url": "http://waban.org.cn:9008/index.php/course/list"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1740108001136,
+                    "title": "工具",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1740107983427,
+                        "title": "CyberChef",
+                        "icon": "https://logo.clearbit.com/211.103.180.146",
+                        "url": "http://211.103.180.146:9008/static/cyberchef/index.html"
+                      }
+                    ]
                   }
                 ]
               },
@@ -3617,15 +3631,7 @@
                         "type": "folder",
                         "addDate": 1719404753398,
                         "title": "解码",
-                        "children": [
-                          {
-                            "type": "link",
-                            "addDate": 1719404719673,
-                            "title": "CyberChef",
-                            "icon": "https://logo.clearbit.com/gchq.github.io",
-                            "url": "https://gchq.github.io/CyberChef/"
-                          }
-                        ]
+                        "children": []
                       },
                       {
                         "type": "link",
@@ -5753,6 +5759,34 @@
                 "url": "https://pan.baidu.com/s/1FqdzF0YcSu6OfJRCr3WxwQ?pwd=q666#list/path=%2F&parentPath=%2F"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1740630101544,
+            "title": "奇安学堂",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1740630070576,
+                "title": "我的学习 - 奇安信产线外网机构",
+                "icon": "https://logo.clearbit.com/xuexi.qianxin.com",
+                "url": "https://xuexi.qianxin.com/study/#/userhome"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1741228086426,
+            "title": "马士兵",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1741228059004,
+                "title": "UKTC-01、新版网络安全大师课【马士b】官方版下载",
+                "icon": "https://logo.clearbit.com/www.123865.com",
+                "url": "https://www.123865.com/s/3tzuTd-hghyd?"
+              }
+            ]
           }
         ]
       },
@@ -6019,6 +6053,34 @@
                 ]
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1741405612500,
+            "title": "考公",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1741405592669,
+                "title": "SaDuck",
+                "icon": "https://logo.clearbit.com/saduck.top",
+                "url": "https://saduck.top/"
+              },
+              {
+                "type": "link",
+                "addDate": 1741405882812,
+                "title": "夸克网盘分享",
+                "icon": "https://logo.clearbit.com/pan.quark.cn",
+                "url": "https://pan.quark.cn/s/4ef642fc47ce#/list/share"
+              },
+              {
+                "type": "link",
+                "addDate": 1741405885388,
+                "title": "夸克网盘分享",
+                "icon": "https://logo.clearbit.com/pan.quark.cn",
+                "url": "https://pan.quark.cn/s/458d1c38317a#/list/share"
+              }
+            ]
           }
         ]
       },
@@ -6094,6 +6156,13 @@
                 "title": "控制台-讯飞开放平台",
                 "icon": "https://logo.clearbit.com/console.xfyun.cn",
                 "url": "https://console.xfyun.cn/services/cbm"
+              },
+              {
+                "type": "link",
+                "addDate": 1741405938404,
+                "title": "星火大模型精调平台",
+                "icon": "https://logo.clearbit.com/training.xfyun.cn",
+                "url": "https://training.xfyun.cn/modelSquare"
               }
             ]
           },
@@ -6177,10 +6246,17 @@
                     "children": [
                       {
                         "type": "link",
+                        "addDate": 1738847877244,
+                        "title": "Open WebUI",
+                        "icon": "https://logo.clearbit.com/deepseek.papaw.us.kg",
+                        "url": "https://deepseek.papaw.us.kg/"
+                      },
+                      {
+                        "type": "link",
                         "addDate": 1739075092715,
                         "title": "Open WebUI",
-                        "icon": "https://logo.clearbit.com/113.206.132.243",
-                        "url": "http://113.206.132.243:30001/"
+                        "icon": "https://logo.clearbit.com/113.206.134.78",
+                        "url": "http://113.206.134.78:30001/"
                       },
                       {
                         "type": "link",
@@ -6188,6 +6264,13 @@
                         "title": "Open WebUI",
                         "icon": "https://logo.clearbit.com/deepseek.201068.xyz",
                         "url": "https://deepseek.201068.xyz/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1740054849174,
+                        "title": "Open WebUI",
+                        "icon": "https://logo.clearbit.com/deepseek2.201068.xyz",
+                        "url": "http://deepseek2.201068.xyz/"
                       }
                     ]
                   }
@@ -6201,11 +6284,95 @@
                 "url": "https://ollama.com/library/deepseek-r1:8b"
               },
               {
+                "type": "folder",
+                "addDate": 1739449960722,
+                "title": "华为云",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1739449933498,
+                    "title": "DeepSeek应用专场-华为云",
+                    "icon": "https://logo.clearbit.com/activity.huaweicloud.com",
+                    "url": "https://activity.huaweicloud.com/maas-ds.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1739451269706,
+                    "title": "ModelArts - Console",
+                    "icon": "https://logo.clearbit.com/console.huaweicloud.com",
+                    "url": "https://console.huaweicloud.com/modelarts/?region=cn-southwest-2#/model-studio/experience"
+                  }
+                ]
+              },
+              {
                 "type": "link",
-                "addDate": 1738847877244,
-                "title": "Open WebUI",
-                "icon": "https://logo.clearbit.com/deepseek.papaw.us.kg",
-                "url": "https://deepseek.papaw.us.kg/"
+                "addDate": 1739543050347,
+                "title": "模型 & 价格 | DeepSeek API Docs",
+                "icon": "https://logo.clearbit.com/api-docs.deepseek.com",
+                "url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing"
+              },
+              {
+                "type": "folder",
+                "addDate": 1740042934256,
+                "title": "腾讯云",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740042918314,
+                    "title": "体验中心 | 大模型知识引擎",
+                    "icon": "https://logo.clearbit.com/lke.cloud.tencent.com",
+                    "url": "https://lke.cloud.tencent.com/lke#/experience-center/home?origin=all"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740042955336,
+                    "title": "API KEY管理 - 知识引擎原子能力 - 控制台",
+                    "icon": "https://logo.clearbit.com/console.cloud.tencent.com",
+                    "url": "https://console.cloud.tencent.com/lkeap/api"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740045110777,
+                    "title": "体验中心详情 | 大模型知识引擎",
+                    "icon": "https://logo.clearbit.com/lke.cloud.tencent.com",
+                    "url": "https://lke.cloud.tencent.com/lke#/experience-center/detail?expAppBizId=1887453086201675776&appType=knowledge_qa&avatar=https%3A%2F%2Fqidian-qbot-1251316161.cos.ap-guangzhou.myqcloud.com%2Fpublic%2F1773234660389421056%2Fimage%2FnCpqyPwvZLpKKLIogCmk-1887453082234912768.png&name=DeepSeek%E8%81%94%E7%BD%91%E5%8A%A9%E6%89%8B"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1740045735281,
+                "title": "阿里云百炼",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740045717154,
+                    "title": "阿里云百炼",
+                    "icon": "https://logo.clearbit.com/bailian.console.aliyun.com",
+                    "url": "https://bailian.console.aliyun.com/?accounttraceid=b03a2f7608454fa98a3b08cffb9cdcb5ocpf#/home"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1740045887033,
+                "title": "GitHub Models",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740045848321,
+                    "title": "Marketplace",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/marketplace?type=models"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1740048035244,
+                "title": "Deepseek满血版API - 老狗",
+                "icon": "https://logo.clearbit.com/www.laogou717.com",
+                "url": "https://www.laogou717.com/geek/DeepseekAPI#heading-1"
               }
             ]
           },
@@ -6241,6 +6408,13 @@
                 "title": "智谱AI开放平台",
                 "icon": "https://logo.clearbit.com/open.bigmodel.cn",
                 "url": "https://open.bigmodel.cn/console/overview"
+              },
+              {
+                "type": "link",
+                "addDate": 1740910319748,
+                "title": "智谱清言",
+                "icon": "https://logo.clearbit.com/chatglm.cn",
+                "url": "https://chatglm.cn/main/guest?lang=zh"
               }
             ]
           },
@@ -6311,6 +6485,48 @@
                 "title": "Cursor使用-CSDN博客",
                 "icon": "https://logo.clearbit.com/blog.csdn.net",
                 "url": "https://blog.csdn.net/yaoge1234/article/details/143526416"
+              },
+              {
+                "type": "link",
+                "addDate": 1739680556236,
+                "title": "chengazhen/cursor-auto-free: auto sign cursor",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/chengazhen/cursor-auto-free"
+              },
+              {
+                "type": "link",
+                "addDate": 1739680575194,
+                "title": "Releases · chengazhen/cursor-auto-free",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/chengazhen/cursor-auto-free/releases"
+              },
+              {
+                "type": "link",
+                "addDate": 1741237796631,
+                "title": "Cursor - The AI Code Editor",
+                "icon": "https://logo.clearbit.com/www.cursor.com",
+                "url": "https://www.cursor.com/cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1741237885000,
+                "title": "toniprada/usa-names-dataset: A set of US names from the last 130 years.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/toniprada/usa-names-dataset"
+              },
+              {
+                "type": "link",
+                "addDate": 1741237902055,
+                "title": "cursor-auto-free --- cursor-auto-free",
+                "icon": "https://logo.clearbit.com/cursor-auto-free-doc.vercel.app",
+                "url": "https://cursor-auto-free-doc.vercel.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1741238580967,
+                "title": "Cursor Pro 自动化工具使用说明 | cursor-auto-free",
+                "icon": "https://logo.clearbit.com/cursor-auto-free-doc.vercel.app",
+                "url": "https://cursor-auto-free-doc.vercel.app/zh/quick-start.html"
               }
             ]
           },
@@ -6346,6 +6562,27 @@
                 "title": "deepseek.tyousan.top/api/tags",
                 "icon": "https://logo.clearbit.com/deepseek.tyousan.top",
                 "url": "https://deepseek.tyousan.top/api/tags"
+              },
+              {
+                "type": "link",
+                "addDate": 1740047330234,
+                "title": "ollama/docs/api.md at main · ollama/ollama",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/ollama/ollama/blob/main/docs/api.md"
+              },
+              {
+                "type": "folder",
+                "addDate": 1741055983845,
+                "title": "ollama管理器",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741055952239,
+                    "title": "kTPW",
+                    "icon": "https://logo.clearbit.com/pan.quark.cn",
+                    "url": "https://pan.quark.cn/s/1bf767d0aa0d#/list/share"
+                  }
+                ]
               }
             ]
           },
@@ -6437,6 +6674,13 @@
                 "title": "SiliconCloud",
                 "icon": "https://logo.clearbit.com/cloud.siliconflow.cn",
                 "url": "https://cloud.siliconflow.cn/playground/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1740048617227,
+                "title": "SiliconCloud",
+                "icon": "https://logo.clearbit.com/cloud.siliconflow.cn",
+                "url": "https://cloud.siliconflow.cn/invitation"
               }
             ]
           },
@@ -6495,6 +6739,55 @@
                 "url": "https://openbayes.com/console/fantasycat/containers"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1739930207897,
+            "title": "chatbox",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1739930187376,
+                "title": "Chatbox AI官网：办公学习的AI好助手，全平台AI客户端，官方免费下载",
+                "icon": "https://logo.clearbit.com/chatboxai.app",
+                "url": "https://chatboxai.app/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1739930217072,
+                "title": "Bin-Huang/chatbox: User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Bin-Huang/chatbox"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1740910416116,
+            "title": "豆包",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1740910408187,
+                "title": "豆包 - 字节跳动旗下 AI 智能助手",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1741406964857,
+            "title": "csdn",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1741406958610,
+                "title": "C知道-开发者的首选AI搜索引擎",
+                "icon": "https://logo.clearbit.com/so.csdn.net",
+                "url": "https://so.csdn.net/chat?c_tab=chat&c_model=ds&utm_source=vip_chatgpt_common_blog_detail&spm=1001.2101.3001.10583"
+              }
+            ]
           }
         ]
       },
@@ -6542,6 +6835,13 @@
                 "title": "宝塔-云容",
                 "icon": "https://logo.clearbit.com/110.40.26.131",
                 "url": "https://110.40.26.131:14935/7908bfc3"
+              },
+              {
+                "type": "link",
+                "addDate": 1741434443561,
+                "title": "宝塔-亚洲云-湖北",
+                "icon": "https://logo.clearbit.com/192.140.160.48",
+                "url": "https://192.140.160.48:23284/89dd6f82"
               },
               {
                 "type": "folder",
@@ -6972,22 +7272,22 @@
                     "type": "link",
                     "addDate": 1737012518862,
                     "title": "瑞白云首页 - 瑞白云",
-                    "icon": "https://logo.clearbit.com/www.ruibaicloud.top",
-                    "url": "https://www.ruibaicloud.top/"
+                    "icon": "https://logo.clearbit.com/www.ruibaicloud.cn",
+                    "url": "https://www.ruibaicloud.cn/"
                   },
                   {
                     "type": "link",
                     "addDate": 1735805838697,
                     "title": "其他 | 瑞白云",
-                    "icon": "https://logo.clearbit.com/www.ruibaicloud.top",
-                    "url": "https://www.ruibaicloud.top//service?groupid=307"
+                    "icon": "https://logo.clearbit.com/www.ruibaicloud.cn",
+                    "url": "https://www.ruibaicloud.cn/service?groupid=307"
                   },
                   {
                     "type": "link",
                     "addDate": 1735805852562,
                     "title": "产品详情 | 瑞白云",
-                    "icon": "https://logo.clearbit.com/www.ruibaicloud.top",
-                    "url": "https://www.ruibaicloud.top//servicedetail?id=1005"
+                    "icon": "https://logo.clearbit.com/www.ruibaicloud.cn",
+                    "url": "https://www.ruibaicloud.cn/servicedetail?id=1005"
                   }
                 ]
               },
@@ -7441,64 +7741,22 @@
               },
               {
                 "type": "folder",
-                "addDate": 1737796783989,
-                "title": "雨际公益云",
+                "addDate": 1737859365754,
+                "title": "速存云",
                 "children": [
                   {
                     "type": "link",
-                    "addDate": 1737796789389,
-                    "title": "雨际公益云 - 免费云服务器",
-                    "icon": "https://logo.clearbit.com/free.vpz.asia",
-                    "url": "https://free.vpz.asia/"
+                    "addDate": 1740796890823,
+                    "title": "用户中心 | 速存云IDC",
+                    "icon": "https://logo.clearbit.com/idc.vpz.asia",
+                    "url": "https://idc.vpz.asia/clientarea"
                   },
                   {
                     "type": "link",
-                    "addDate": 1737802912450,
-                    "title": "雨际公益云 - 免费服务器自助开通",
-                    "icon": "https://logo.clearbit.com/register.free.vpz.asia",
-                    "url": "http://register.free.vpz.asia/index.html"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1737804444637,
-                    "title": "雨际公益云 - 免费服务器自助开通",
-                    "icon": "https://logo.clearbit.com/frp.papaw.ddns-ip.net",
-                    "url": "http://frp.papaw.ddns-ip.net/"
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1737859365754,
-                    "title": "速存云",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1737859343034,
-                        "title": "首页_速存云IDC",
-                        "icon": "https://logo.clearbit.com/cloud.vpz.asia",
-                        "url": "https://cloud.vpz.asia/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1737895966023,
-                        "title": "用户中心 | 速存云IDC",
-                        "icon": "https://logo.clearbit.com/cloud.vpz.asia",
-                        "url": "https://cloud.vpz.asia/clientarea"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1738410962147,
-                    "title": "所有产品_【雨际公益】壹号共享机_速存云IDC",
-                    "icon": "https://logo.clearbit.com/cloud.vpz.asia",
-                    "url": "https://cloud.vpz.asia/cart?fid=19&gid=22"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1738411412194,
-                    "title": "产品详情 | 速存云IDC",
-                    "icon": "https://logo.clearbit.com/cloud.vpz.asia",
-                    "url": "https://cloud.vpz.asia/servicedetail?id=23"
+                    "addDate": 1741135869658,
+                    "title": "CDN专用控制面板",
+                    "icon": "https://logo.clearbit.com/kangle.management.vpz.asia",
+                    "url": "http://kangle.management.vpz.asia:3312/vhost/index.php"
                   }
                 ]
               },
@@ -7547,21 +7805,21 @@
                     "addDate": 1738285675129,
                     "title": "其他 | 氢云IDC",
                     "icon": "https://logo.clearbit.com/www.qcloudidc.shop",
-                    "url": "https://www.qcloudidc.shop/service?groupid=307"
+                    "url": "https://www.qcloudidc.shop/"
                   },
                   {
                     "type": "link",
-                    "addDate": 1738286964482,
-                    "title": "catserver.us.kg",
-                    "icon": "https://logo.clearbit.com/catserver.us.kg",
-                    "url": "https://catserver.us.kg/"
+                    "addDate": 1739507929690,
+                    "title": "氢云IDC",
+                    "icon": "https://logo.clearbit.com/kh.qcloudidc.shop",
+                    "url": "https://kh.qcloudidc.shop/"
                   },
                   {
                     "type": "link",
-                    "addDate": 1738287858528,
-                    "title": "catserver.us.kg/sgin",
-                    "icon": "https://logo.clearbit.com/catserver.us.kg",
-                    "url": "https://catserver.us.kg/sgin"
+                    "addDate": 1739507914051,
+                    "title": "5418814520hh.gnway.cc:58590",
+                    "icon": "https://logo.clearbit.com/5418814520hh.gnway.cc",
+                    "url": "http://5418814520hh.gnway.cc:58590/"
                   }
                 ]
               },
@@ -7590,6 +7848,69 @@
                     "title": "首页_初衷云计算",
                     "icon": "https://logo.clearbit.com/m.hnczy.icu",
                     "url": "https://m.hnczy.icu/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1741139490547,
+                "title": "linuxone",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741139502154,
+                    "title": "LinuxONE Community Cloud",
+                    "icon": "https://logo.clearbit.com/linuxone.cloud.marist.edu",
+                    "url": "https://linuxone.cloud.marist.edu/#/register?flag=VM"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741139495964,
+                    "title": "LinuxONE Community Cloud",
+                    "icon": "https://logo.clearbit.com/linuxone.cloud.marist.edu",
+                    "url": "https://linuxone.cloud.marist.edu/#/login"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741139664259,
+                    "title": "LinuxONE Community Cloud",
+                    "icon": "https://logo.clearbit.com/linuxone.cloud.marist.edu",
+                    "url": "https://linuxone.cloud.marist.edu/#/index"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741140022434,
+                    "title": "LinuxONE Community Cloud",
+                    "icon": "https://logo.clearbit.com/linuxone.cloud.marist.edu",
+                    "url": "https://linuxone.cloud.marist.edu/#/instance"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1741426140466,
+                "title": "亚洲云",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741426130666,
+                    "title": "用户中心 | 亚洲云",
+                    "icon": "https://logo.clearbit.com/www.asiayun.com",
+                    "url": "https://www.asiayun.com/clientarea"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741426505531,
+                    "title": "产品详情 | 亚洲云",
+                    "icon": "https://logo.clearbit.com/www.asiayun.com",
+                    "url": "https://www.asiayun.com/servicedetail?id=25808"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741428557552,
+                    "title": "WinMTR_x64.rar - 蓝奏云",
+                    "icon": "https://logo.clearbit.com/cooree.lanzoue.com",
+                    "url": "https://cooree.lanzoue.com/iMSP821xnsoh"
                   }
                 ]
               }
@@ -7626,10 +7947,10 @@
                       },
                       {
                         "type": "link",
-                        "addDate": 1707738689229,
-                        "title": "150.109.70.113:9669 / localhost | phpMyAdmin 5.2.1",
-                        "icon": "https://logo.clearbit.com/150.109.70.113",
-                        "url": "http://150.109.70.113:9669/phpmyadmin_8f47f5d37fff1f2f/index.php?route=/&route=%2F"
+                        "addDate": 1740544590029,
+                        "title": "43.161.245.70 / localhost | phpMyAdmin 5.2.1",
+                        "icon": "https://logo.clearbit.com/43.161.245.70",
+                        "url": "http://43.161.245.70:9669/phpmyadmin_f80c6f8d89a10c9d/index.php?route=/&route=%2F"
                       }
                     ]
                   },
@@ -7765,83 +8086,6 @@
                     "title": "珊瑚云主机",
                     "icon": "https://logo.clearbit.com/host.coms.su",
                     "url": "http://host.coms.su/?i=1"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707527357177,
-                    "title": "Account Order Confirmation",
-                    "icon": "https://logo.clearbit.com/ifastnet.com",
-                    "url": "https://ifastnet.com/activate_3.php?username=smhso_35952576&email=534898714@qq.com&hash=55ddbb7bcfd8a47ef0703d619575cf92&autoinstall=&script_url=&domain=host.coms.su&logo=https://images.hostmessage.info/login_logo/7d30cc7586fa92a1e2a96bd48e5ca0c7.jpg&sql=sql101&script_username=&server_name=fantasycat.host.coms.su"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707527749849,
-                    "title": "cpanel.host.coms.su/panel/index.php",
-                    "icon": "https://logo.clearbit.com/cpanel.host.coms.su",
-                    "url": "http://cpanel.host.coms.su/panel/index.php"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707528616378,
-                    "title": "珊瑚云主机",
-                    "icon": "https://logo.clearbit.com/fantasycat.host.coms.su",
-                    "url": "http://fantasycat.host.coms.su/?i=1"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707528700491,
-                    "title": "Mysql",
-                    "icon": "https://logo.clearbit.com/cpanel.host.coms.su",
-                    "url": "http://cpanel.host.coms.su/panel/indexpl.php?option=mysql&ttt=-7119708015425099264"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707528876769,
-                    "title": "php-myadmin.net / sql101.host.coms.su / smhso_35952576_test | phpMyAdmin 4.9.0.1",
-                    "icon": "https://logo.clearbit.com/php-myadmin.net",
-                    "url": "https://php-myadmin.net/db_structure.php?db=smhso_35952576_test"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707531136080,
-                    "title": "Softaculous - 由 Softaculous 提供支持",
-                    "icon": "https://logo.clearbit.com/sv1.scriptinstall.rocks",
-                    "url": "https://sv1.scriptinstall.rocks:2083/cpsess2105380676/frontend/x3/softaculous/index.live.php"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707531800209,
-                    "title": "CSR在线生成工具",
-                    "icon": "https://logo.clearbit.com/myssl.com",
-                    "url": "https://myssl.com/csr_create.html"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707575479922,
-                    "title": "彩虹外链网盘",
-                    "icon": "https://logo.clearbit.com/fantasycat.host.coms.su",
-                    "url": "http://fantasycat.host.coms.su/pan/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707575853744,
-                    "title": "铠歌专属网盘管理中心",
-                    "icon": "https://logo.clearbit.com/fantasycat.host.coms.su",
-                    "url": "http://fantasycat.host.coms.su/pan/admin/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707576007385,
-                    "title": "Like_Girl5.0",
-                    "icon": "https://logo.clearbit.com/fantasycat.host.coms.su",
-                    "url": "http://fantasycat.host.coms.su/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707576352269,
-                    "title": "后台管理 — 异世闺蜜缘",
-                    "icon": "https://logo.clearbit.com/fantasycat.host.coms.su",
-                    "url": "http://fantasycat.host.coms.su/admin/"
                   },
                   {
                     "type": "folder",
@@ -8001,20 +8245,6 @@
               },
               {
                 "type": "folder",
-                "addDate": 1712224590687,
-                "title": "梨安云",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1716890118688,
-                    "title": "用户中心 | 梨安云",
-                    "icon": "https://logo.clearbit.com/lianidc.com",
-                    "url": "https://lianidc.com/clientarea"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
                 "addDate": 1734399602341,
                 "title": "雨云",
                 "children": [
@@ -8031,48 +8261,6 @@
                     "title": "总览 | 雨云",
                     "icon": "https://logo.clearbit.com/app.rainyun.com",
                     "url": "https://app.rainyun.com/dashboard"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1738035481137,
-                "title": "Tom科技",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1738035459522,
-                    "title": "产品详情 | Tom科技云",
-                    "icon": "https://logo.clearbit.com/idc.tomykj.com",
-                    "url": "https://idc.tomykj.com/servicedetail?id=243"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1738035713466,
-                    "title": "TOMBNBT面板",
-                    "icon": "https://logo.clearbit.com/bt.tomkj.cn",
-                    "url": "http://bt.tomkj.cn/user/index.php"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1738035792489,
-                    "title": "phpMyAdmin",
-                    "icon": "https://logo.clearbit.com/38.12.33.74",
-                    "url": "http://38.12.33.74:888/phpmyadmin_022baa37a1e42964/index.php"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1738035944826,
-                    "title": "38.12.33.74:888 / localhost | phpMyAdmin 5.1.1",
-                    "icon": "https://logo.clearbit.com/38.12.33.74",
-                    "url": "http://38.12.33.74:888/phpmyadmin_022baa37a1e42964/index.php?route=/&route=%2F"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1738036346393,
-                    "title": "引导页",
-                    "icon": "https://logo.clearbit.com/vhost.abym.asia",
-                    "url": "http://vhost.abym.asia/"
                   }
                 ]
               },
@@ -8101,6 +8289,69 @@
                         "url": "https://dns.abkj.asia/home"
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1739437328675,
+                "title": "vercel",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1739437284115,
+                    "title": "pintree - Overview – Vercel",
+                    "icon": "https://logo.clearbit.com/vercel.com",
+                    "url": "https://vercel.com/fantasycat6s-projects/pintree"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1739437612762,
+                    "title": "Vercel",
+                    "icon": "https://logo.clearbit.com/vercel.com",
+                    "url": "https://vercel.com/fantasycat6s-projects"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1739438152578,
+                    "title": "Pintree",
+                    "icon": "https://logo.clearbit.com/pintree-orcin-nine.vercel.app",
+                    "url": "https://pintree-orcin-nine.vercel.app/admin/collections"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1739439384769,
+                    "title": "Neon Console",
+                    "icon": "https://logo.clearbit.com/console.neon.tech",
+                    "url": "https://console.neon.tech/app/projects"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1740541796438,
+                "title": "蓝队云",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740541774216,
+                    "title": "免费虚拟主机_免费空间_免费主机_免费空间申请 - 蓝队云",
+                    "icon": "https://logo.clearbit.com/www.landui.com",
+                    "url": "https://www.landui.com/project/freehost/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1740911185355,
+                "title": "easypanel",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740911162700,
+                    "title": "netcccyun/easypanel: Easypanel面板彩虹优化版",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/netcccyun/easypanel"
                   }
                 ]
               }
@@ -8445,34 +8696,6 @@
                     ]
                   },
                   {
-                    "type": "folder",
-                    "addDate": 1738034083074,
-                    "title": "Tom科技",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1738034056916,
-                        "title": "Tom科技域名分发",
-                        "icon": "https://logo.clearbit.com/edu.toxlq.cn",
-                        "url": "https://edu.toxlq.cn/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1738034141709,
-                        "title": "记录列表 - Tom科技域名分发",
-                        "icon": "https://logo.clearbit.com/edu.toxlq.cn",
-                        "url": "https://edu.toxlq.cn/home"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1738034556107,
-                        "title": "引导页",
-                        "icon": "https://logo.clearbit.com/love.toxlq.cn",
-                        "url": "http://love.toxlq.cn/"
-                      }
-                    ]
-                  },
-                  {
                     "type": "link",
                     "addDate": 1710392079624,
                     "title": "klsf/kldns: 快乐二级域名分发系统",
@@ -8590,6 +8813,125 @@
                     "title": "管理控制台 - DNSPod",
                     "icon": "https://logo.clearbit.com/console.dnspod.cn",
                     "url": "https://console.dnspod.cn/dns/list"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1740286915854,
+                "title": "L53",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740286887559,
+                    "title": "L53 - 第三级域名 - 便宜的域名 --- L53 - Third Level Domain - Cheap Domain",
+                    "icon": "https://logo.clearbit.com/www.l53.net",
+                    "url": "https://www.l53.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740287276952,
+                    "title": "美国地址生成器 - 美国身份生成器 - 美国信用卡生成器",
+                    "icon": "https://logo.clearbit.com/www.meiguodizhi.com",
+                    "url": "https://www.meiguodizhi.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740287994224,
+                    "title": "客户区域",
+                    "icon": "https://logo.clearbit.com/customer.l53.net",
+                    "url": "https://customer.l53.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740288859527,
+                    "title": "域名 papaw.ggff.net. 注册",
+                    "icon": "https://logo.clearbit.com/customer.l53.net",
+                    "url": "https://customer.l53.net/order/service/manage/103407"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1740357627464,
+                "title": "HiDNS",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740357598450,
+                    "title": "HiDNS 免费域名 - 客户区域 --- HiDNS Free Domain - 客户区域",
+                    "icon": "https://logo.clearbit.com/www.hidoha.net",
+                    "url": "https://www.hidoha.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740357731507,
+                    "title": "美国地址生成器",
+                    "icon": "https://logo.clearbit.com/ratenn.com",
+                    "url": "https://ratenn.com/american.html"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1741234589720,
+                "title": "软柠账号",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741234562728,
+                    "title": "个人中心 - 软柠账号",
+                    "icon": "https://logo.clearbit.com/id.rutno.com",
+                    "url": "https://id.rutno.com/profile"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741234865672,
+                    "title": "Zke.me",
+                    "icon": "https://logo.clearbit.com/zke.me",
+                    "url": "https://zke.me/"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1741234934696,
+                    "title": "Zke.me",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1741234919330,
+                        "title": "记录列表 - Zke.me",
+                        "icon": "https://logo.clearbit.com/zke.me",
+                        "url": "https://zke.me/home"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741235209561,
+                    "title": "首页 - Litu - 纯粹的5000px级影像分享社区",
+                    "icon": "https://logo.clearbit.com/nlitu.com",
+                    "url": "https://nlitu.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741235279401,
+                    "title": "404 Not Found",
+                    "icon": "https://logo.clearbit.com/open.rutno.com",
+                    "url": "https://open.rutno.com/dashboard/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741235296112,
+                    "title": "MySQL命令生成器",
+                    "icon": "https://logo.clearbit.com/mysql.rutno.com",
+                    "url": "https://mysql.rutno.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741235307377,
+                    "title": "DevSkyr – 程序“猿”的dev综合社区、云、数据、源代码",
+                    "icon": "https://logo.clearbit.com/www.devskyr.com",
+                    "url": "https://www.devskyr.com/"
                   }
                 ]
               }
@@ -8894,13 +9236,6 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1709643980743,
-                    "title": "One-Fox安全团队 - One-Fox安全团队—狐狸说安全团队",
-                    "icon": "https://logo.clearbit.com/www.one-fox.cn",
-                    "url": "https://www.one-fox.cn/"
-                  },
-                  {
-                    "type": "link",
                     "addDate": 1709969461133,
                     "title": "随风起 - 分享知识与美好时光",
                     "icon": "https://logo.clearbit.com/blog.bywind.xyz",
@@ -9164,6 +9499,69 @@
                     "title": "主机测评_国外VPS推荐，优选国外主机，云服务器，国外高防服务器，速度快、性价比高！",
                     "icon": "https://logo.clearbit.com/www.vpslook.com",
                     "url": "https://www.vpslook.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740042657744,
+                    "title": "老狗",
+                    "icon": "https://logo.clearbit.com/www.laogou717.com",
+                    "url": "https://www.laogou717.com/geek"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1740637698996,
+                    "title": "One-Fox",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1709643980743,
+                        "title": "One-Fox安全团队 - One-Fox安全团队—狐狸说安全团队",
+                        "icon": "https://logo.clearbit.com/www.one-fox.cn",
+                        "url": "https://www.one-fox.cn/"
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740637719013,
+                        "title": "天狐渗透工具箱",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740637701693,
+                            "title": "天狐渗透工具箱-社区版V1.2正式发布（附最新工具包版-助力HVV季）！",
+                            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                            "url": "https://mp.weixin.qq.com/s/uEul82AZf5W9g6MItkeugQ"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1740637885550,
+                            "title": "天狐渗透工具箱-社区版V1.2_免费高速下载|百度网盘-分享无限制",
+                            "icon": "https://logo.clearbit.com/pan.baidu.com",
+                            "url": "https://pan.baidu.com/s/1MGZPpR-oFxGwDRlD-hLPNQ?pwd=ofox#list/path=%2F"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1740638593158,
+                            "title": "夸克网盘分享",
+                            "icon": "https://logo.clearbit.com/pan.quark.cn",
+                            "url": "https://pan.quark.cn/s/1f76186c3e44#/list/share"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1741227538066,
+                    "title": "角沛雨",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1741227451436,
+                        "title": "Moments in Time",
+                        "icon": "https://logo.clearbit.com/123.60.42.149",
+                        "url": "http://123.60.42.149/"
+                      }
+                    ]
                   }
                 ]
               }
@@ -9570,6 +9968,13 @@
                     "title": "Docker Proxy 镜像加速",
                     "icon": "https://logo.clearbit.com/dockerproxy.link",
                     "url": "https://dockerproxy.link/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740898228836,
+                    "title": "Docker Proxy 镜像加速",
+                    "icon": "https://logo.clearbit.com/dockerproxy.net",
+                    "url": "https://dockerproxy.net/"
                   }
                 ]
               },
@@ -9621,6 +10026,20 @@
                 "title": "樱花云linux工具箱更新日志-资源分享论坛-综合-樱花云社区-樱花主机社区",
                 "icon": "https://logo.clearbit.com/www.sakuraidc.cc",
                 "url": "https://www.sakuraidc.cc/forum-post/1501.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1741423139503,
+                "title": "亚洲云LinuxTool脚本工具介绍及使用方法- 亚洲云",
+                "icon": "https://logo.clearbit.com/www.asiayun.com",
+                "url": "https://www.asiayun.com/helpcontent/224.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1741423193951,
+                "title": "vpsad/LinuxTool --- vpsad/LinuxTool",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/vpsad/LinuxTool"
               }
             ]
           },
@@ -10363,6 +10782,20 @@
                     "url": "https://dashboard.passnat.com/dashboard"
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1739856196919,
+                "title": "Venom",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1739856179448,
+                    "title": "Dliv3/Venom: Venom - A Multi-hop Proxy for Penetration Testers",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/Dliv3/Venom"
+                  }
+                ]
               }
             ]
           },
@@ -10662,6 +11095,62 @@
                         "url": "https://doc.xiaoz.org/books/onenav/chapter/api"
                       }
                     ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1739501632516,
+                    "title": "chinese-dos-games",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1739501600158,
+                        "title": "rwv/chinese-dos-games: 🎮 Chinese DOS games collections.",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/rwv/chinese-dos-games"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1739501688141,
+                        "title": "rwv/chinese-dos-games-web: 🌐 Source code of https://dos.zczc.cz",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/rwv/chinese-dos-games-web"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1739501772565,
+                        "title": "游戏列表 - 在线 DOS 游戏",
+                        "icon": "https://logo.clearbit.com/dos.lol",
+                        "url": "https://dos.lol/games/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1741504611906,
+                    "title": "webvm",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1741504593850,
+                        "title": "leaningtech/webvm: Virtual Machine for the Web",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/leaningtech/webvm"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1741504997755,
+                        "title": "WebVM - Linux virtualization in WebAssembly",
+                        "icon": "https://logo.clearbit.com/webvm.io",
+                        "url": "https://webvm.io/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1741505730682,
+                        "title": "WebVM - Linux virtualization in WebAssembly",
+                        "icon": "https://logo.clearbit.com/webvm.201068.xyz",
+                        "url": "https://webvm.201068.xyz/"
+                      }
+                    ]
                   }
                 ]
               },
@@ -10755,6 +11244,34 @@
                 "title": "阿乐源码网-游戏资源整合网站,每个源码都是站长亲测,每个源码都有视频教程和测试视频!",
                 "icon": "https://logo.clearbit.com/ale.leleyangyang.top",
                 "url": "http://ale.leleyangyang.top:8991/"
+              },
+              {
+                "type": "folder",
+                "addDate": 1739929232104,
+                "title": "cloudflare",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1739929232104,
+                    "title": "deepseek",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1739929167136,
+                        "title": "夸克网盘分享",
+                        "icon": "https://logo.clearbit.com/pan.quark.cn",
+                        "url": "https://pan.quark.cn/s/2b5aa9ff57f6#/list/share"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1739929258922,
+                        "title": "迅雷云盘",
+                        "icon": "https://logo.clearbit.com/pan.xunlei.com",
+                        "url": "https://pan.xunlei.com/s/VOJEzm7hLwmhER71rK2wnXArA1?pwd=cefg"
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           },
@@ -12157,6 +12674,13 @@
                         "title": "lijiejie/GitHack: A `.git` folder disclosure exploit",
                         "icon": "https://logo.clearbit.com/github.com",
                         "url": "https://github.com/lijiejie/GitHack/tree/master"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1741668522547,
+                        "title": "BugScanTeam/GitHack: .git 泄漏利用工具，可还原历史版本",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/BugScanTeam/GitHack"
                       }
                     ]
                   },
@@ -13256,55 +13780,6 @@
               },
               {
                 "type": "folder",
-                "addDate": 1733813003932,
-                "title": "vulnhub",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1733812972917,
-                    "title": "设计缺陷 ~ VulnHub --- Vulnerable By Design ~ VulnHub",
-                    "icon": "https://logo.clearbit.com/www.vulnhub.com",
-                    "url": "https://www.vulnhub.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1733815834110,
-                    "title": "Vulnhub靶机笔记01——Billu_b0x - 飞天井盖 - 博客园",
-                    "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                    "url": "https://www.cnblogs.com/koka/p/17357459.html"
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1733993093727,
-                    "title": "靶场",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1733993053814,
-                        "title": "收费部分-靶机_免费高速下载|百度网盘-分享无限制",
-                        "icon": "https://logo.clearbit.com/pan.baidu.com",
-                        "url": "https://pan.baidu.com/s/1m9sBU9hlTrkPGgTllKZEqA?pwd=1234#list/path=%2F"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1734143131932,
-                        "title": "远程桌面连接：提示出现身份验证错误，要求的函数不受支持。这可能是由于CredSSP加密数据库修正错误。_远程出现身份验证错误 要求的函数-CSDN博客",
-                        "icon": "https://logo.clearbit.com/blog.csdn.net",
-                        "url": "https://blog.csdn.net/weixin_40276431/article/details/111034925"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1734181528502,
-                        "title": "SecuraBV/CVE-2020-1472：CVE-2020-1472 测试工具 --- SecuraBV/CVE-2020-1472: Test tool for CVE-2020-1472",
-                        "icon": "https://logo.clearbit.com/github.com",
-                        "url": "https://github.com/SecuraBV/CVE-2020-1472"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "folder",
                 "addDate": 1734770670738,
                 "title": "墨者学院",
                 "children": [
@@ -13321,6 +13796,55 @@
                     "title": "在线靶场_墨者学院",
                     "icon": "https://logo.clearbit.com/mozhe.cn",
                     "url": "https://mozhe.cn/bug/"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1733813003932,
+                    "title": "vulnhub",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1733812972917,
+                        "title": "设计缺陷 ~ VulnHub --- Vulnerable By Design ~ VulnHub",
+                        "icon": "https://logo.clearbit.com/www.vulnhub.com",
+                        "url": "https://www.vulnhub.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733815834110,
+                        "title": "Vulnhub靶机笔记01——Billu_b0x - 飞天井盖 - 博客园",
+                        "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                        "url": "https://www.cnblogs.com/koka/p/17357459.html"
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1733993093727,
+                        "title": "靶场",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1733993053814,
+                            "title": "收费部分-靶机_免费高速下载|百度网盘-分享无限制",
+                            "icon": "https://logo.clearbit.com/pan.baidu.com",
+                            "url": "https://pan.baidu.com/s/1m9sBU9hlTrkPGgTllKZEqA?pwd=1234#list/path=%2F"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1734143131932,
+                            "title": "远程桌面连接：提示出现身份验证错误，要求的函数不受支持。这可能是由于CredSSP加密数据库修正错误。_远程出现身份验证错误 要求的函数-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_40276431/article/details/111034925"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1734181528502,
+                            "title": "SecuraBV/CVE-2020-1472：CVE-2020-1472 测试工具 --- SecuraBV/CVE-2020-1472: Test tool for CVE-2020-1472",
+                            "icon": "https://logo.clearbit.com/github.com",
+                            "url": "https://github.com/SecuraBV/CVE-2020-1472"
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               },
@@ -13382,6 +13906,433 @@
                         "title": "经验笔记 - 极核GetShell",
                         "icon": "https://logo.clearbit.com/get-shell.com",
                         "url": "https://get-shell.com/%e6%9e%81%e6%a0%b8%e6%94%b6%e5%bd%95/%e7%bb%8f%e9%aa%8c%e7%ac%94%e8%ae%b0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1739867930965,
+                "title": "vulnhub",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1739867930965,
+                    "title": "wp",
+                    "children": [
+                      {
+                        "type": "folder",
+                        "addDate": 1739878337554,
+                        "title": "medium_socnet",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1739867900038,
+                            "title": "medium_socnet内网穿透靶机（解决5000扫描不到，和虚拟机启动成功问题）_kali扫描端口没有5000端口-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/m0_71274136/article/details/132920024"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1739868628477,
+                            "title": "Virtualbox7.0版本安装报错：Invalid installation directory_the chosen installation directory is invalid, as i-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/shengsikandan/article/details/139621359"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1739878248045,
+                            "title": "medium_socnet_socnet-mediam-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_58189050/article/details/142069736"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1739878515235,
+                            "title": "Medium_socnet渗透测试（含docker容器） - FreeBuf网络安全行业门户",
+                            "icon": "https://logo.clearbit.com/www.freebuf.com",
+                            "url": "https://www.freebuf.com/articles/network/387008.html"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1739880729689,
+                        "title": "easy _cloudantivirus",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1739880712929,
+                            "title": "easy_cloudantivirus-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_58189050/article/details/142319515"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740104536241,
+                        "title": "Chronos",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740104514433,
+                            "title": "Chronos靶机渗透-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/woshicainiao666/article/details/136047332"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1740113000403,
+                            "title": "CVE-2020-7699漏洞分析_express-fileupload\": \"1.1.7-alpha.4-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/gental_z/article/details/107937110"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740115917356,
+                        "title": "AdmX_new",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740115908445,
+                            "title": "AdmX_new_admx-new-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_58189050/article/details/142797064"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1740123869573,
+                        "title": "Fab1an要努力！-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/weixin_64422989?type=blog"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1740124586292,
+                        "title": "Ignitetechnologies/Vulnhub-CTF-Writeups: This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs. This list contains all the writeups available on hackingarticles.",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1740124735205,
+                        "title": "Resources ~ VulnHub",
+                        "icon": "https://logo.clearbit.com/www.vulnhub.com",
+                        "url": "https://www.vulnhub.com/resources/"
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740126923261,
+                        "title": "hard_socnet2",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740126875477,
+                            "title": "打靶记录5——靶机hard_socnet2_22,80,8000靶机-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_64422989/article/details/140877111"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1740130603413,
+                            "title": "【CVE-2021-3493】——漏洞复现、原理分析以及漏洞修复-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/IronmanJay/article/details/139131027"
+                          },
+                          {
+                            "type": "folder",
+                            "addDate": 1740897793012,
+                            "title": "CVE-2021-3493",
+                            "children": [
+                              {
+                                "type": "link",
+                                "addDate": 1740130703655,
+                                "title": "briskets/CVE-2021-3493: Ubuntu OverlayFS 本地提权 --- briskets/CVE-2021-3493: Ubuntu OverlayFS Local Privesc",
+                                "icon": "https://logo.clearbit.com/github.com",
+                                "url": "https://github.com/briskets/CVE-2021-3493"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1740900211155,
+                                "title": "raw.githubusercontent.com/briskets/CVE-2021-3493/refs/heads/main/exploit.c",
+                                "icon": "https://logo.clearbit.com/raw.githubusercontent.com",
+                                "url": "https://raw.githubusercontent.com/briskets/CVE-2021-3493/refs/heads/main/exploit.c"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740211938151,
+                        "title": "EvilBox---One",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740211932216,
+                            "title": "打靶记录6——靶机EvilBox---One-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_64422989/article/details/140909194?spm=1001.2014.3001.5502"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740455467932,
+                        "title": "Hacker_Kid-v1.0.1",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740455449004,
+                            "title": "打靶记录7——Hacker_Kid-v1.0.1_hacker kid-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_64422989/article/details/140936730?spm=1001.2014.3001.5502"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1740457253540,
+                            "title": "0x00sec_code/mem_inject/infect.c at master · 0x00pf/0x00sec_code --- 0x00sec_code/mem_inject/infect.c at master · 0x00pf/0x00sec_code",
+                            "icon": "https://logo.clearbit.com/github.com",
+                            "url": "https://github.com/0x00pf/0x00sec_code/blob/master/mem_inject/infect.c"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740465388965,
+                        "title": "y0usef_y0usef",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740465362253,
+                            "title": "打靶记录8——y0usef_y0usef靶机-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_64422989/article/details/141039155?spm=1001.2014.3001.5502"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740554285268,
+                        "title": "hacksudo---Thor",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740554272540,
+                            "title": "打靶记录10——hacksudo---Thor-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_64422989/article/details/141197667?spm=1001.2014.3001.5502"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1740554287556,
+                            "title": "zakee94/online-banking-system: Online banking system in PHP & MySQL accompanied by a beautiful website !",
+                            "icon": "https://logo.clearbit.com/github.com",
+                            "url": "https://github.com/zakee94/online-banking-system"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740895122672,
+                        "title": "Ripper_ripper",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740895103234,
+                            "title": "打靶记录15——Ripper_ripper靶机-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_64422989/article/details/141336686?spm=1001.2014.3001.5502"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1741071164242,
+                        "title": "17-pyexpvm",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1741071137379,
+                            "title": "打靶记录17——pyexpvm_17-pyexpvm-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_64422989/article/details/142134632?spm=1001.2014.3001.5502"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1741071182650,
+                        "title": "18-Gemini-Pentest-v1",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1741071167819,
+                            "title": "18、Gemini-Pentest-v1-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/qq_63855540/article/details/142101428"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1741076288076,
+                            "title": "mihai-vlc/master-login-system: 一个基于 Bootstrap 构建的高级登录系统，内置了许多功能。 --- mihai-vlc/master-login-system: An advanced login system build upon bootstrap with lots of features built in.",
+                            "icon": "https://logo.clearbit.com/github.com",
+                            "url": "https://github.com/mihai-vlc/master-login-system"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1741071217250,
+                        "title": "19-Gemini-Pentest-v2",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1741071192419,
+                            "title": "19、Gemini-Pentest-v2_trustdb.gpg提权-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/qq_63855540/article/details/141829488"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1741668475563,
+                        "title": "25-darkhole_2",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1741668422051,
+                            "title": "打靶记录25——darkhole_2-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/weixin_64422989/article/details/145317567?spm=1001.2014.3001.5502"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1741668478700,
+                            "title": "项目首页 - GitHack:.git 泄漏利用工具，可还原历史版本 - GitCode",
+                            "icon": "https://logo.clearbit.com/gitcode.com",
+                            "url": "https://gitcode.com/gh_mirrors/git/GitHack"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1740393299234,
+                "title": "CyberStrikeLab",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740393278419,
+                    "title": "CyberStrikeLab仿真实战平台",
+                    "icon": "https://logo.clearbit.com/www.cyberstrikelab.com",
+                    "url": "https://www.cyberstrikelab.com/#/my_record/my_record_index"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1740404086576,
+                    "title": "wp",
+                    "children": [
+                      {
+                        "type": "folder",
+                        "addDate": 1740401214943,
+                        "title": "CVE-2017-10271",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740400661439,
+                            "title": "weblogic CVE-2017-10271漏洞复现-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/qq_68581192/article/details/139184700"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740404086576,
+                        "title": "CVE-2022-0543",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740404065040,
+                            "title": "CVE-2022-0543-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/sinat_25635183/article/details/137023753"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740404417247,
+                        "title": "CVE-2021-41773",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740404405783,
+                            "title": "CVE-2021-41773-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/Dikesi/article/details/145523957"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740405129917,
+                        "title": "CVE-2021-42013",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740405119110,
+                            "title": "CVE-2021-42013 路径穿越漏洞复现并反弹shell-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/m0_53073183/article/details/135982605"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740405275636,
+                        "title": "CVE-2021-41277",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740405264589,
+                            "title": "Metabase geojson任意文件读取漏洞 （CVE-2021-41277）-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/qq_23003811/article/details/140432343"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1740405594692,
+                        "title": "CVE-2020-13945",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1740405585029,
+                            "title": "CVE-2020-13945 - Zovt - 博客园",
+                            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                            "url": "https://www.cnblogs.com/zovt/p/16340367.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1740405596196,
+                            "title": "vulhub/apisix/CVE-2020-13945 at master · vulhub --- vulhub/apisix/CVE-2020-13945 at master · vulhub/vulhub",
+                            "icon": "https://logo.clearbit.com/github.com",
+                            "url": "https://github.com/vulhub/vulhub/tree/master/apisix/CVE-2020-13945"
+                          }
+                        ]
                       }
                     ]
                   }
@@ -13687,6 +14638,27 @@
                 "title": "弱鸡技术栈[使用代理访问更佳]",
                 "icon": "https://logo.clearbit.com/wiki.ruojisec.com",
                 "url": "https://wiki.ruojisec.com/#/README"
+              },
+              {
+                "type": "folder",
+                "addDate": 1741581039722,
+                "title": "極客方舟",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741581016848,
+                    "title": "極客方舟 | 極客方舟",
+                    "icon": "https://logo.clearbit.com/deelmind.com.cn",
+                    "url": "https://deelmind.com.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741581086602,
+                    "title": "资料下载 | 極客方舟",
+                    "icon": "https://logo.clearbit.com/deelmind.com.cn",
+                    "url": "https://deelmind.com.cn/pay/download.html"
+                  }
+                ]
               }
             ]
           },
@@ -13790,6 +14762,13 @@
                         "url": "https://www.52pojie.cn/home.php?mod=space&do=notice"
                       }
                     ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741145422923,
+                    "title": "网安公司避坑互助 - Google 表格",
+                    "icon": "https://logo.clearbit.com/docs.google.com",
+                    "url": "https://docs.google.com/spreadsheets/d/1i-8heBoWVtaCtukXmH5bUUIemum6kLJd-KpGYAdMPjQ/edit?pli=1&gid=1474673081#gid=1474673081"
                   }
                 ]
               },
@@ -13848,6 +14827,27 @@
                 "title": "Track 安全社区 — 掌控安全在线教育- Track 知识社区 - 掌控安全在线教育 - Powered by 掌控者",
                 "icon": "https://logo.clearbit.com/bbs.zkaq.cn",
                 "url": "https://bbs.zkaq.cn/portal.php"
+              },
+              {
+                "type": "folder",
+                "addDate": 1739854701017,
+                "title": "先知社区",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1739854681586,
+                    "title": "资讯 - 先知社区",
+                    "icon": "https://logo.clearbit.com/xz.aliyun.com",
+                    "url": "https://xz.aliyun.com/news"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1740457418780,
+                "title": "主题 - 活动 - 0x00pf - 0x00sec - 黑客的家园 --- Topics - Activity - 0x00pf - 0x00sec - The Home of the Hacker",
+                "icon": "https://logo.clearbit.com/0x00sec.org",
+                "url": "https://0x00sec.org/u/0x00pf/activity/topics"
               }
             ]
           },
@@ -14182,6 +15182,27 @@
                         "url": "https://github.com/Sgyling/Free-proxy-pool"
                       }
                     ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1740822137628,
+                    "title": "jackProxy",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1740822107059,
+                        "title": "YingxueSec/JackProxy",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/YingxueSec/JackProxy"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1740822421475,
+                        "title": "Jackproxy-v3&重构1秒接入-引领代理池新趋势-自动轮换代理池「映雪安全首发」.zip_免费高速下载|百度网盘-分享无限制",
+                        "icon": "https://logo.clearbit.com/pan.baidu.com",
+                        "url": "https://pan.baidu.com/s/1_5ZYzIfhS659P359YtDVvQ?pwd=jack"
+                      }
+                    ]
                   }
                 ]
               },
@@ -14483,6 +15504,20 @@
                     "title": "奇幻猫 6/IP 地址查询：IP 地址 定位查询 --- fantasycat6/IPAddressQuery: IP地址 定位查询",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/fantasycat6/IPAddressQuery"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1741319047896,
+                "title": "IP 路由黑洞检测工具",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741319026537,
+                    "title": "IP 路由黑洞检测工具",
+                    "icon": "https://logo.clearbit.com/www.ipxr.cn",
+                    "url": "https://www.ipxr.cn/kddos.php"
                   }
                 ]
               }
@@ -15393,8 +16428,49 @@
                     "title": "DeEpinGh0st/MDUT-Extend-Release: MDUT-Extend(扩展版本)",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/DeEpinGh0st/MDUT-Extend-Release"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1741670155969,
+                    "title": "SQLMAP",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1741670109513,
+                        "title": "sqlmapproject/sqlmap: Automatic SQL injection and database takeover tool",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/sqlmapproject/sqlmap"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1741670203312,
+                        "title": "sqlmap: 自动 SQL 注入和数据库接管工具 --- sqlmap: automatic SQL injection and database takeover tool",
+                        "icon": "https://logo.clearbit.com/sqlmap.org",
+                        "url": "https://sqlmap.org/"
+                      }
+                    ]
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1740024069624,
+                "title": "图片隐写",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740024029592,
+                    "title": "baimao-box/Misc_Picture_Steganography: 一套misc图片隐写练习题以及配套的所有工具",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/baimao-box/Misc_Picture_Steganography"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1741670155969,
+                "title": "新建文件夹",
+                "children": []
               }
             ]
           },
@@ -15596,6 +16672,20 @@
                     "title": "[~]#棱角 ::Edge.Forum*",
                     "icon": "https://logo.clearbit.com/forum.ywhack.com",
                     "url": "https://forum.ywhack.com/bountytips.php?Vulnerability"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1739854629641,
+                    "title": "阿里云漏洞库",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1739854603402,
+                        "title": "阿里云漏洞库",
+                        "icon": "https://logo.clearbit.com/avd.aliyun.com",
+                        "url": "https://avd.aliyun.com/"
+                      }
+                    ]
                   }
                 ]
               },
@@ -15652,6 +16742,20 @@
                         "url": "https://get-shell.com/4204.html#hidden-box-comment"
                       }
                     ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741227777011,
+                    "title": "src2024等多个文件_免费高速下载|百度网盘-分享无限制",
+                    "icon": "https://logo.clearbit.com/pan.baidu.com",
+                    "url": "https://pan.baidu.com/s/1eqH0bkAbGOh8Q8iueELyiQ?pwd=65n5#list/path=%2F"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741227835051,
+                    "title": "2024最新北山src_免费高速下载|百度网盘-分享无限制",
+                    "icon": "https://logo.clearbit.com/pan.baidu.com",
+                    "url": "https://pan.baidu.com/s/1lSJfMop8oXSVgHlFiJUIvw?pwd=eujx#list/path=%2F"
                   }
                 ]
               },
@@ -15888,6 +16992,20 @@
                         "title": "wy876/POC: 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1200多个poc/exp，长期更新。",
                         "icon": "https://logo.clearbit.com/github.com",
                         "url": "https://github.com/wy876/POC"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1740457357204,
+                    "title": "0x00sec_code",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1740457315614,
+                        "title": "0x00pf/0x00sec_code: 我的 0x00sec.org 帖子的代码 --- 0x00pf/0x00sec_code: Code for my 0x00sec.org posts",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/0x00pf/0x00sec_code"
                       }
                     ]
                   }
@@ -16331,6 +17449,69 @@
                     "title": "随波逐流工作室 随波逐流CTF编码工具",
                     "icon": "https://logo.clearbit.com/www.1o1o.xyz",
                     "url": "http://www.1o1o.xyz/sbzlcode/sbzlcode.html"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1740108034169,
+                "title": "Cyberchef",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740108013002,
+                    "title": "gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/gchq/CyberChef"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740108095043,
+                    "title": "Releases · gchq/CyberChef",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/gchq/CyberChef/releases"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740109521739,
+                    "title": "CyberChef",
+                    "icon": "https://logo.clearbit.com/cyberchef.201068.xyz",
+                    "url": "http://cyberchef.201068.xyz/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1719404719673,
+                    "title": "CyberChef",
+                    "icon": "https://logo.clearbit.com/gchq.github.io",
+                    "url": "https://gchq.github.io/CyberChef/"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1740892070442,
+                "title": "Ctool",
+                "icon": "https://logo.clearbit.com/ctool.dev",
+                "url": "https://ctool.dev/"
+              },
+              {
+                "type": "link",
+                "addDate": 1740892155054,
+                "title": "baiy/Ctool: 程序开发常用工具 chrome / edge / firefox / utools / windows / linux / mac",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/baiy/Ctool"
+              },
+              {
+                "type": "folder",
+                "addDate": 1741583315882,
+                "title": "HexEd",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741583276194,
+                    "title": "HexEd.it - Browser-based Online and Offline Hex Editing",
+                    "icon": "https://logo.clearbit.com/hexed.it",
+                    "url": "https://hexed.it/"
                   }
                 ]
               }
@@ -16991,6 +18172,20 @@
                 "title": "【23HW】培训课程资料_免费高速下载|百度网盘-分享无限制",
                 "icon": "https://logo.clearbit.com/pan.baidu.com",
                 "url": "https://pan.baidu.com/s/1xXXx-04q0j2990s1PbDxhw?pwd=4lk5#list/path=%2F&parentPath=%2F"
+              },
+              {
+                "type": "folder",
+                "addDate": 1740619338762,
+                "title": "考试",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740619304435,
+                    "title": "我的学习 - 奇安信产线外网机构",
+                    "icon": "https://logo.clearbit.com/xuexi.qianxin.com",
+                    "url": "https://xuexi.qianxin.com/o2o/#/normal/project/detail/1894278032182304770/commonTask"
+                  }
+                ]
               }
             ]
           }
@@ -17070,6 +18265,48 @@
             "title": "招聘职位搜索_新华英才招聘-大学生就业服务云平台",
             "icon": "https://logo.clearbit.com/www.chinahr.com",
             "url": "https://www.chinahr.com/job"
+          },
+          {
+            "type": "folder",
+            "addDate": 1739945339118,
+            "title": "面试题",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1739945316271,
+                "title": "奇安信知识库",
+                "icon": "https://logo.clearbit.com/kb.qianxin.com",
+                "url": "https://kb.qianxin.com/?curSpace=33cc189"
+              },
+              {
+                "type": "link",
+                "addDate": 1739945362221,
+                "title": "奇安信产品资料下载中心",
+                "icon": "https://logo.clearbit.com/download.qianxin.com",
+                "url": "https://download.qianxin.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1740803340011,
+            "title": "「Web安全工程师（正式岗）招聘」_愚安科技招聘-BOSS直聘",
+            "icon": "https://logo.clearbit.com/www.zhipin.com",
+            "url": "https://www.zhipin.com/job_detail/7c1d0b6eb0190bb41HJ939m5EFJS.html?securityId=sPjKlYBDKEXBM-o1C6k76lqEBg0bOH9MHXh4iYOhsCUDICxLcGQwXskyd3Svblen8yTxJK3blkEuCzKNZOMGPop1nKClZnSnN2-yZnCXvF5ui_atNb33MPs~"
+          },
+          {
+            "type": "link",
+            "addDate": 1741581248402,
+            "title": "渗透测试工作与职业指南 | 网络安全工作 --- Penetration Testing Jobs & Career Guide | Cyber Security Jobs",
+            "icon": "https://logo.clearbit.com/www.cybersecurityjobs.com",
+            "url": "https://www.cybersecurityjobs.com/penetration-tester-jobs/"
+          },
+          {
+            "type": "link",
+            "addDate": 1741581328681,
+            "title": "信息安全/网络安全岗位及人才 | isecjobs.com --- Jobs and Talents in InfoSec / Cybersecurity | isecjobs.com",
+            "icon": "https://logo.clearbit.com/isecjobs.com",
+            "url": "https://isecjobs.com/?cat=3&key=&exp=&sal="
           }
         ]
       },
@@ -17079,11 +18316,46 @@
         "title": "导航",
         "children": [
           {
-            "type": "link",
-            "addDate": 1729834487303,
+            "type": "folder",
+            "addDate": 1739448993714,
             "title": "Pintree",
-            "icon": "https://logo.clearbit.com/pintree.201068.xyz",
-            "url": "https://pintree.201068.xyz/"
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1739449140411,
+                "title": "泡泡导航",
+                "icon": "https://logo.clearbit.com/pintree-orcin-nine.vercel.app",
+                "url": "https://pintree-orcin-nine.vercel.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1729834487303,
+                "title": "Pintree",
+                "icon": "https://logo.clearbit.com/pintree.201068.xyz",
+                "url": "https://pintree.201068.xyz/"
+              },
+              {
+                "type": "link",
+                "addDate": 1739448581883,
+                "title": "Pintree1",
+                "icon": "https://logo.clearbit.com/pintree1.201068.xyz",
+                "url": "https://pintree1.201068.xyz/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1739449049481,
+            "title": "OneNav",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1739423207763,
+                "title": "泡泡的书签 - 开源书签管理程序",
+                "icon": "https://logo.clearbit.com/onenav.201068.xyz",
+                "url": "https://onenav.201068.xyz/#/"
+              }
+            ]
           },
           {
             "type": "link",
@@ -17164,10 +18436,24 @@
           },
           {
             "type": "link",
-            "addDate": 1739423207763,
-            "title": "泡泡的书签 - 开源书签管理程序",
-            "icon": "https://logo.clearbit.com/onenav.201068.xyz",
-            "url": "https://onenav.201068.xyz/#/"
+            "addDate": 1740888429733,
+            "title": "导航网址 |",
+            "icon": "https://logo.clearbit.com/bhapp.top",
+            "url": "https://bhapp.top/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1741581130705,
+            "title": "極客方舟",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1741581108754,
+                "title": "極客方舟 | 资源导航",
+                "icon": "https://logo.clearbit.com/deelmind.org",
+                "url": "https://deelmind.org/"
+              }
+            ]
           }
         ]
       },
@@ -17334,6 +18620,48 @@
                 "title": "ryanker/dream_downloads: 一款轻量级网页资源下载器，可通过浏览器打包下载全部网页资源（JS/CSS/HTML/图片等）。",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/ryanker/dream_downloads"
+              },
+              {
+                "type": "folder",
+                "addDate": 1741088452747,
+                "title": "脚本猫",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741088422894,
+                    "title": "首页 | ScriptCat",
+                    "icon": "https://logo.clearbit.com/docs.scriptcat.org",
+                    "url": "https://docs.scriptcat.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741088566133,
+                    "title": "scriptscat/scriptcat: 脚本猫，一个可以执行用户脚本的浏览器扩展",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/scriptscat/scriptcat"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741088633100,
+                    "title": "用户脚本列表 - ScriptCat",
+                    "icon": "https://logo.clearbit.com/scriptcat.org",
+                    "url": "https://scriptcat.org/zh-CN/search"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741092489089,
+                    "title": "方洲",
+                    "icon": "https://logo.clearbit.com/pan.wandhi.com",
+                    "url": "https://pan.wandhi.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741092630415,
+                    "title": "资源汇总库",
+                    "icon": "https://logo.clearbit.com/www.kdocs.cn",
+                    "url": "https://www.kdocs.cn/l/cuPUPTH1nXqA?R=L1MvOQ=="
+                  }
+                ]
               }
             ]
           },
@@ -17966,6 +19294,27 @@
                 "url": "https://greasyfork.org/zh-CN/scripts/519353-123%E4%BA%91%E7%9B%98%E8%A7%A3%E9%94%81"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1739541679678,
+            "title": "python源",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1739541679678,
+                "title": "豆瓣源",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1739541655094,
+                    "title": "Simple Index",
+                    "icon": "https://logo.clearbit.com/mirrors.cloud.tencent.com",
+                    "url": "https://mirrors.cloud.tencent.com/pypi/simple/"
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -18510,6 +19859,34 @@
                     "url": "https://github.com/CatBallV/Deepseek_wechat"
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1740904524793,
+            "title": "Eridanus项目",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1740904406192,
+                "title": "Hello from Eridanus文档 | Eridanus文档",
+                "icon": "https://logo.clearbit.com/eridanus-doc.netlify.app",
+                "url": "https://eridanus-doc.netlify.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1740904530297,
+                "title": "部署 | Eridanus文档",
+                "icon": "https://logo.clearbit.com/eridanus-doc.netlify.app",
+                "url": "https://eridanus-doc.netlify.app/docs/intro"
+              },
+              {
+                "type": "link",
+                "addDate": 1740904689008,
+                "title": "多语言动漫 TTS - 一个由 Plachta 提供的 Hugging Face Space --- Multilingual Anime TTS - a Hugging Face Space by Plachta",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/spaces/Plachta/VITS-Umamusume-voice-synthesizer"
               }
             ]
           }
@@ -19565,6 +20942,20 @@
           },
           {
             "type": "folder",
+            "addDate": 1740388135941,
+            "title": "绝区零",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1740388111300,
+                "title": "《绝区零》官网-1.5全新版本「闪耀的此刻」现已上线",
+                "icon": "https://logo.clearbit.com/zzz.mihoyo.com",
+                "url": "https://zzz.mihoyo.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
             "addDate": 1708004744831,
             "title": "鸣潮",
             "children": [
@@ -20605,6 +21996,20 @@
                 ]
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1741750713657,
+            "title": "开放空间",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1741750715482,
+                "title": "开放空间电脑/主机 - TapTap",
+                "icon": "https://logo.clearbit.com/www.taptap.cn",
+                "url": "https://www.taptap.cn/app/739056"
+              }
+            ]
           }
         ]
       },
@@ -21240,6 +22645,20 @@
                 "title": "Dart for Windows",
                 "icon": "https://logo.clearbit.com/gekorm.com",
                 "url": "https://gekorm.com/dart-windows/"
+              },
+              {
+                "type": "link",
+                "addDate": 1740475778850,
+                "title": "chen310/BilibiliPotPlayer: PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/chen310/BilibiliPotPlayer"
+              },
+              {
+                "type": "link",
+                "addDate": 1740476086958,
+                "title": "观看直播时，cookie总是失效，几乎每隔几天就需要从新获取，之前没遇到这种情况。 · Issue #62 · chen310/BilibiliPotPlayer",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/chen310/BilibiliPotPlayer/issues/62#issuecomment-1841909583"
               }
             ]
           },
@@ -21765,6 +23184,20 @@
                 "title": "guanguans/music-dl: Music Searcher and Downloader. - 音乐搜索下载器。",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/guanguans/music-dl"
+              },
+              {
+                "type": "link",
+                "addDate": 1740305307199,
+                "title": "Unable to find the wrapper \"https\"错误的解决办法_warning **: 10:59:22.204: unable to get contents o-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/u013366098/article/details/50824816"
+              },
+              {
+                "type": "link",
+                "addDate": 1740306152342,
+                "title": "music-dl | 音乐搜索下载器。 --- music-dl | Music Searcher and Downloader. - 音乐搜索下载器。",
+                "icon": "https://logo.clearbit.com/www.guanguans.cn",
+                "url": "https://www.guanguans.cn/music-dl/"
               }
             ]
           },
@@ -21781,6 +23214,13 @@
                 "url": "https://pan.xunlei.com/s/VOGczI0lxTZWMyyaBP-JibBWA1?pwd=ske8"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1740389968274,
+            "title": "um/web: Unlock Music - Web Edition - 之前误操作删库了… - web - Unlock Music Git Service",
+            "icon": "https://logo.clearbit.com/git.unlock-music.dev",
+            "url": "https://git.unlock-music.dev/um/web"
           }
         ]
       },
@@ -22010,6 +23450,20 @@
                 "title": "闪秒云-新一代网络硬盘",
                 "icon": "https://logo.clearbit.com/www.shanmiaocloud.com",
                 "url": "https://www.shanmiaocloud.com/"
+              },
+              {
+                "type": "folder",
+                "addDate": 1741339931365,
+                "title": "树易云AI",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741339891061,
+                    "title": "数易云AI_免费高速下载|百度网盘-分享无限制",
+                    "icon": "https://logo.clearbit.com/pan.baidu.com",
+                    "url": "https://pan.baidu.com/s/1DJ8uC9UMIkEQODCBsUBEyA?pwd=8888#list/path=%2F"
+                  }
+                ]
               }
             ]
           },
@@ -22513,7 +23967,14 @@
                 "addDate": 1735179082257,
                 "title": "星辰云盘 - 文件管理",
                 "icon": "https://logo.clearbit.com/pan.szczk.top",
-                "url": "https://pan.szczk.top/upload.php"
+                "url": "https://pan.szczk.top/upload"
+              },
+              {
+                "type": "link",
+                "addDate": 1740888388901,
+                "title": "开源软件室",
+                "icon": "https://logo.clearbit.com/ttrj.ysepan.com",
+                "url": "http://ttrj.ysepan.com/#/"
               }
             ]
           },
@@ -23034,6 +24495,20 @@
             "title": "随机二次元图片",
             "icon": "https://logo.clearbit.com/t.alcy.cc",
             "url": "https://t.alcy.cc/ycy"
+          },
+          {
+            "type": "folder",
+            "addDate": 1741342217933,
+            "title": "佐糖",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1741342193854,
+                "title": "佐糖 - 在线图片处理工具_在线抠图_证件照换底色_去水印_照片修复",
+                "icon": "https://logo.clearbit.com/picwish.cn",
+                "url": "https://picwish.cn/?apptype=aps-bd-pin&bd_vid=6319426853556988939"
+              }
+            ]
           }
         ]
       },
@@ -23109,6 +24584,13 @@
                 "title": "接码短信平台 | 在线接收短信验证码 | 接码帝官网",
                 "icon": "https://logo.clearbit.com/www.jiemadi.com",
                 "url": "https://www.jiemadi.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1740888599828,
+                "title": "免费接短信,在线接收短信验证码 - 云短信",
+                "icon": "https://logo.clearbit.com/yunduanxin.net",
+                "url": "https://yunduanxin.net/"
               }
             ]
           }
@@ -23221,6 +24703,13 @@
                 "title": "临时邮箱，10分钟邮箱",
                 "icon": "https://logo.clearbit.com/www.linshi-email.com",
                 "url": "https://www.linshi-email.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1739680461859,
+                "title": "一次性临时电子邮件 - TempMail.Plus",
+                "icon": "https://logo.clearbit.com/tempmail.plus",
+                "url": "https://tempmail.plus/zh/#!"
               }
             ]
           },
@@ -23464,6 +24953,27 @@
                         "url": "https://pan.baidu.com/s/1fpm4nmCKeELmwKdSpxny1g?pwd=yb6d#list/path=%2F"
                       }
                     ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1740101249257,
+                    "title": "远程连接",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1740101216738,
+                        "title": "由于在客户端检测到一个协议错误(代码0x1104)-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/qq_36292543/article/details/114519274"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1740101250954,
+                        "title": "【免费】ipx_win7.zip_由于在客户端资源-CSDN文库",
+                        "icon": "https://logo.clearbit.com/download.csdn.net",
+                        "url": "https://download.csdn.net/download/qq_36292543/15646122"
+                      }
+                    ]
                   }
                 ]
               },
@@ -23578,6 +25088,41 @@
                     "url": "https://www.alipan.com/s/pVDqdk5Ytgn"
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1741675456876,
+                "title": "wsl",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741675444322,
+                    "title": "WSL：修改安装包实际安装位置，最新完整教程_wsl安装路径-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/weixin_44498318/article/details/140408785"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741679547884,
+                    "title": "Win-KeX | Kali Linux 文档 --- Win-KeX | Kali Linux Documentation",
+                    "icon": "https://logo.clearbit.com/www.kali.org",
+                    "url": "https://www.kali.org/docs/wsl/win-kex/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1741683143912,
+                "title": "powershell",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741683119432,
+                    "title": "PowerShell/PowerShell: PowerShell for every system! --- PowerShell/PowerShell: PowerShell for every system!",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/PowerShell/PowerShell"
+                  }
+                ]
               }
             ]
           },
@@ -23613,6 +25158,13 @@
                 "title": "openssh-server安装之后有的时候 vi /etc/ssh/sshd_config文件为空，特意贴出ubun安装之后有的时候 vim /etc/ssh/sshd_config文件为空_ssh的config文件空白-CSDN博客",
                 "icon": "https://logo.clearbit.com/blog.csdn.net",
                 "url": "https://blog.csdn.net/weimw123/article/details/134891789"
+              },
+              {
+                "type": "link",
+                "addDate": 1739881257880,
+                "title": "kali 窗口栏消失解决办法_kali顶端菜单栏不见了-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_43376075/article/details/134347545"
               }
             ]
           },
@@ -24143,6 +25695,20 @@
                     "title": "微软远程桌面.apk_免费高速下载|百度网盘-分享无限制",
                     "icon": "https://logo.clearbit.com/pan.baidu.com",
                     "url": "https://pan.baidu.com/s/1fbAREWQyeX8nisJiF5msQg?pwd=zw7p"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1741405237956,
+                "title": "ipv6投屏",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741405210508,
+                    "title": "项目首页 - ipv6投屏:这是一个免安装的，无需第三方服务器的，观看方无需客户端只需浏览器观看的，开源免费的投屏软件，部分版本支持远程控制功能。 - GitCode",
+                    "icon": "https://logo.clearbit.com/gitcode.com",
+                    "url": "https://gitcode.com/2301_80130186/ipv6"
                   }
                 ]
               }
@@ -24888,6 +26454,76 @@
                 "url": "https://www.123684.com/s/3gLpjv-4XNNv"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1740303610548,
+            "title": "远控",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1740303574333,
+                "title": "下载连连控 - Windows、macOS、iPhone、Android 免费下载",
+                "icon": "https://logo.clearbit.com/www.asklink.com",
+                "url": "https://www.asklink.com/download"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1741506941050,
+            "title": "wget",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1741506922666,
+                "title": "windows安裝wget-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_39987723/article/details/142881684"
+              },
+              {
+                "type": "link",
+                "addDate": 1741506948826,
+                "title": "Index of /misc/wget/releases",
+                "icon": "https://logo.clearbit.com/eternallybored.org",
+                "url": "https://eternallybored.org/misc/wget/releases/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1741581518258,
+            "title": "Sublime Text",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1741581495858,
+                "title": "Sublime Text - 文本编辑，做到位了 --- Sublime Text - Text Editing, Done Right",
+                "icon": "https://logo.clearbit.com/www.sublimetext.com",
+                "url": "https://www.sublimetext.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1741582348443,
+                "title": "Sublime Text 4 激活码，Sublime Text 4安装和激活教程，免费授权码，亲测有效！ - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/690776212"
+              },
+              {
+                "type": "link",
+                "addDate": 1741583260883,
+                "title": "sublime_text_4192.exe_免费高速下载|百度网盘-分享无限制",
+                "icon": "https://logo.clearbit.com/pan.baidu.com",
+                "url": "https://pan.baidu.com/s/1Gg_N6h5mLlvmEG1OMT2piQ?pwd=mmb6#mmb6"
+              },
+              {
+                "type": "link",
+                "addDate": 1741583533195,
+                "title": "2步破解官方sublime4最新版本 4192_sublime text 4192-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/want_water_fish/article/details/145687344"
+              }
+            ]
           }
         ]
       },
@@ -25229,6 +26865,76 @@
                 "title": "Readest — Where You Read, Digest and Get Insight",
                 "icon": "https://logo.clearbit.com/readest.com",
                 "url": "https://readest.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1739680968210,
+            "title": "ragflow",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1739680941211,
+                "title": "infiniflow/ragflow: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/infiniflow/ragflow"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1739943667371,
+            "title": "摸鱼阅读",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1739943646299,
+                "title": "uTools摸鱼阅读【在线阅读功能】上线啦",
+                "icon": "https://logo.clearbit.com/www.luoxx.top",
+                "url": "https://www.luoxx.top/archives/fish-book-online-read"
+              },
+              {
+                "type": "link",
+                "addDate": 1739943849643,
+                "title": "hectorqin/reader: 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/hectorqin/reader"
+              },
+              {
+                "type": "link",
+                "addDate": 1739944002051,
+                "title": "hectorqin/reader-legado: Reader 使用的legado核心和其它开源库，欢迎大家提交pr",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/hectorqin/reader-legado"
+              },
+              {
+                "type": "link",
+                "addDate": 1739944266732,
+                "title": "luoxmc/scan-book: 爬书神器（utools插件）",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/luoxmc/scan-book"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1740057209863,
+            "title": "怡氧",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1740057179655,
+                "title": "怡氧 - 一站式生产力工具集",
+                "icon": "https://logo.clearbit.com/www.eo2suite.cn",
+                "url": "https://www.eo2suite.cn/home/index"
+              },
+              {
+                "type": "link",
+                "addDate": 1740057617622,
+                "title": "坚果云收件箱_收作业_文件收集_问卷收集",
+                "icon": "https://logo.clearbit.com/workspace.jianguoyun.com",
+                "url": "https://workspace.jianguoyun.com/inbox/"
               }
             ]
           }
