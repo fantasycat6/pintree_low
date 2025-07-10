@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1694412322147,
+    "addDate": 1750138038878,
     "title": "书签栏",
     "children": [
       {
@@ -913,6 +913,20 @@
                     "title": "java",
                     "children": [
                       {
+                        "type": "link",
+                        "addDate": 1712658738493,
+                        "title": "WEJDK学习站",
+                        "icon": "https://logo.clearbit.com/www.injdk.cn",
+                        "url": "https://www.injdk.cn/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1712975238626,
+                        "title": "破解软件合集",
+                        "icon": "https://logo.clearbit.com/www.javatiku.cn",
+                        "url": "https://www.javatiku.cn/tools.html"
+                      },
+                      {
                         "type": "folder",
                         "addDate": 1714294002055,
                         "title": "JetBrains",
@@ -926,65 +940,51 @@
                           },
                           {
                             "type": "link",
-                            "addDate": 1723252794518,
-                            "title": "JetBrains: Essential tools for software developers and teams",
-                            "icon": "https://logo.clearbit.com/www.jetbrains.com",
-                            "url": "https://www.jetbrains.com/"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1730271244343,
-                            "title": "JetBrains2024（IntelliJ IDEA、PhpStorm、RubyMine、Rider……）安装教程",
-                            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-                            "url": "https://mp.weixin.qq.com/s?__biz=MzA4MjU4MTg2Ng==&mid=2247552352&idx=4&sn=cc2aaca7529e8cb0c42e961da88450e7&chksm=9f81cd65a8f644738345c94e81482a1892437834ce039bd10acfec54e4fcc242a1886dce1b56&scene=178&cur_album_id=3421643864929239051#rd"
-                          },
-                          {
-                            "type": "link",
                             "addDate": 1704337559720,
                             "title": "Java Downloads | Oracle",
                             "icon": "https://logo.clearbit.com/www.oracle.com",
                             "url": "https://www.oracle.com/java/technologies/downloads/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1723252794518,
+                            "title": "JetBrains: Essential tools for software developers and teams",
+                            "icon": "https://logo.clearbit.com/www.jetbrains.com",
+                            "url": "https://www.jetbrains.com/"
                           }
                         ]
                       },
                       {
                         "type": "folder",
-                        "addDate": 1748942852732,
+                        "addDate": 1750148657617,
                         "title": "JetBrains全家桶激活",
                         "children": [
                           {
                             "type": "link",
-                            "addDate": 1748942329915,
+                            "addDate": 1750148615745,
                             "title": "【最新分享】JetBrains全家桶激活教程 - 极核GetShell",
                             "icon": "https://logo.clearbit.com/get-shell.com",
                             "url": "https://get-shell.com/4235.html"
                           },
                           {
                             "type": "link",
-                            "addDate": 1748942813285,
+                            "addDate": 1750148661073,
                             "title": "JETBRA.IN CHECKER | IPFS",
                             "icon": "https://logo.clearbit.com/3.jetbra.in",
                             "url": "https://3.jetbra.in/"
                           },
                           {
                             "type": "link",
-                            "addDate": 1748942967168,
-                            "title": "ipfs/public-gateway-checker: Checks which public gateways are online or not",
-                            "icon": "https://logo.clearbit.com/github.com",
-                            "url": "https://github.com/ipfs/public-gateway-checker"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1748943473301,
+                            "addDate": 1750148668362,
                             "title": "Some keys for testing - jetbra.in",
-                            "icon": "https://logo.clearbit.com/bafybeih65no5dklpqfe346wyeiak6wzemv5d7z2ya7nssdgwdz4xrmdu6i.ipfs.dweb.link",
-                            "url": "https://bafybeih65no5dklpqfe346wyeiak6wzemv5d7z2ya7nssdgwdz4xrmdu6i.ipfs.dweb.link/"
+                            "icon": "https://logo.clearbit.com/ipfs.io",
+                            "url": "https://ipfs.io/ipfs/bafybeih65no5dklpqfe346wyeiak6wzemv5d7z2ya7nssdgwdz4xrmdu6i/"
                           }
                         ]
                       },
                       {
                         "type": "folder",
-                        "addDate": 1748942896295,
+                        "addDate": 1750911280706,
                         "title": "IDEA注册码",
                         "children": [
                           {
@@ -1007,22 +1007,22 @@
                             "title": "2024年 phpstorm最新激活码，配合插件可激活到永久",
                             "icon": "https://logo.clearbit.com/web.52shizhan.cn",
                             "url": "https://web.52shizhan.cn/ide?k=phpstorm"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1712975823756,
+                            "title": "Intellij IDEA 2024.1 版本永久激活破解教程，附最新IDEA注册码（亲测好用）",
+                            "icon": "https://logo.clearbit.com/www.javatiku.cn",
+                            "url": "https://www.javatiku.cn/idea/19184.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730271244343,
+                            "title": "JetBrains2024（IntelliJ IDEA、PhpStorm、RubyMine、Rider……）安装教程",
+                            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                            "url": "https://mp.weixin.qq.com/s?__biz=MzA4MjU4MTg2Ng==&mid=2247552352&idx=4&sn=cc2aaca7529e8cb0c42e961da88450e7&chksm=9f81cd65a8f644738345c94e81482a1892437834ce039bd10acfec54e4fcc242a1886dce1b56&scene=178&cur_album_id=3421643864929239051#rd"
                           }
                         ]
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1712658738493,
-                        "title": "WEJDK学习站",
-                        "icon": "https://logo.clearbit.com/www.injdk.cn",
-                        "url": "https://www.injdk.cn/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1712975238626,
-                        "title": "破解软件合集",
-                        "icon": "https://logo.clearbit.com/www.javatiku.cn",
-                        "url": "https://www.javatiku.cn/tools.html"
                       },
                       {
                         "type": "folder",
@@ -6186,6 +6186,27 @@
                 "url": "https://www.schrss.org.cn/ssologin/login?service=https://www.scpta.com.cn/admissioncheck-oXkihcY5XXY@3d"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1751171538194,
+            "title": "教材",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1751171513836,
+                "title": "TapXWorld/ChinaTextbook: 所有小初高、大学PDF教材。",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/TapXWorld/ChinaTextbook"
+              },
+              {
+                "type": "link",
+                "addDate": 1751171926785,
+                "title": "国家智慧教育公共服务平台",
+                "icon": "https://logo.clearbit.com/www.smartedu.cn",
+                "url": "https://www.smartedu.cn/"
+              }
+            ]
           }
         ]
       },
@@ -7027,31 +7048,10 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1718591570634,
-                "title": "宝塔-阿里云-河北",
-                "icon": "https://logo.clearbit.com/47.92.194.144",
-                "url": "https://47.92.194.144:18865/192da006"
-              },
-              {
-                "type": "link",
-                "addDate": 1749970490553,
-                "title": "fnos - 飞牛私有云fnOS",
-                "icon": "https://logo.clearbit.com/183.66.27.14",
-                "url": "http://183.66.27.14:51666/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749971065407,
-                "title": "fnos - 飞牛私有云fnOS",
-                "icon": "https://logo.clearbit.com/papaww.fnos.net",
-                "url": "https://papaww.fnos.net/"
-              },
-              {
-                "type": "link",
-                "addDate": 1718526430761,
+                "addDate": 1751858146431,
                 "title": "宝塔-樱雨云-重庆",
                 "icon": "https://logo.clearbit.com/183.66.27.14",
-                "url": "https://183.66.27.14:33536/fc1e2a32"
+                "url": "https://183.66.27.14:51282/16bac49f"
               },
               {
                 "type": "link",
@@ -7568,6 +7568,20 @@
                     "title": "Claw Cloud",
                     "icon": "https://logo.clearbit.com/ap-northeast-1.run.claw.cloud",
                     "url": "https://ap-northeast-1.run.claw.cloud/"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1750936970239,
+                    "title": "部署",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1750936941891,
+                        "title": "WebSSH Console",
+                        "icon": "https://logo.clearbit.com/fnpxqgfn.ap-northeast-1.clawcloudrun.com",
+                        "url": "https://fnpxqgfn.ap-northeast-1.clawcloudrun.com/"
+                      }
+                    ]
                   }
                 ]
               },
@@ -7953,34 +7967,6 @@
                         "url": "https://xp.cn/product-download"
                       }
                     ]
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1748413591311,
-                    "title": "DPanel",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1748413552916,
-                        "title": "DPanel 可视化 Docker 管理面板",
-                        "icon": "https://logo.clearbit.com/dpanel.cc",
-                        "url": "https://dpanel.cc/#/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1748413652920,
-                        "title": "一键安装",
-                        "icon": "https://logo.clearbit.com/dpanel.cc",
-                        "url": "https://dpanel.cc/#/zh-cn/install/shell"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1748413838208,
-                        "title": "donknap/dpanel: 轻量化 docker 可视化管理面板。lightweight panel for docker",
-                        "icon": "https://logo.clearbit.com/github.com",
-                        "url": "https://github.com/donknap/dpanel"
-                      }
-                    ]
                   }
                 ]
               },
@@ -8310,76 +8296,41 @@
                         "url": "https://my.kkidc.com/ecs/console/id/11442.html"
                       }
                     ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1743761515443,
-            "title": "云电脑",
-            "children": [
-              {
-                "type": "folder",
-                "addDate": 1735805247107,
-                "title": "瑞白云",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1737012518862,
-                    "title": "瑞白云首页 - 瑞白云",
-                    "icon": "https://logo.clearbit.com/www.ruibaicloud.cn",
-                    "url": "https://www.ruibaicloud.cn/"
                   },
                   {
-                    "type": "link",
-                    "addDate": 1735805838697,
-                    "title": "其他 | 瑞白云",
-                    "icon": "https://logo.clearbit.com/www.ruibaicloud.cn",
-                    "url": "https://www.ruibaicloud.cn/service?groupid=307"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1735805852562,
-                    "title": "产品详情 | 瑞白云",
-                    "icon": "https://logo.clearbit.com/www.ruibaicloud.cn",
-                    "url": "https://www.ruibaicloud.cn/servicedetail?id=1005"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1737859365754,
-                "title": "速存云",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1740796890823,
-                    "title": "用户中心 | 速存云IDC",
-                    "icon": "https://logo.clearbit.com/idc.256443.xyz",
-                    "url": "https://idc.256443.xyz/clientarea"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1741135869658,
-                    "title": "CDN专用控制面板",
-                    "icon": "https://logo.clearbit.com/kangle.management.256443.xyz",
-                    "url": "http://kangle.management.256443.xyz:3312/vhost/index.php"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1748255902115,
-                "title": "水墨云",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1748255854484,
-                    "title": "云电脑主页",
-                    "icon": "https://logo.clearbit.com/3389.iis7.net",
-                    "url": "http://3389.iis7.net:35412/"
+                    "type": "folder",
+                    "addDate": 1750931347431,
+                    "title": "Koyeb",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1750931330085,
+                        "title": "Sign in to Koyeb - Koyeb",
+                        "icon": "https://logo.clearbit.com/app.koyeb.com",
+                        "url": "https://app.koyeb.com/auth/signin?next=%2Fdeploy%3Ftype%3Ddocker%26name%3Dwebssh%26ports%3D8888%3Bhttp%3B%2F%26image%3Ddocker.io%2Fcmliu%2Fwebssh"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1750932016527,
+                        "title": "Koyeb",
+                        "icon": "https://logo.clearbit.com/app.koyeb.com",
+                        "url": "https://app.koyeb.com/"
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1750932090848,
+                        "title": "项目",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1750932078098,
+                            "title": "WebSSH Console",
+                            "icon": "https://logo.clearbit.com/balanced-blackbird-fantasycat6-c91f9046.koyeb.app",
+                            "url": "https://balanced-blackbird-fantasycat6-c91f9046.koyeb.app/"
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               }
@@ -8428,13 +8379,6 @@
                     "addDate": 1706704117775,
                     "title": "小兔互联",
                     "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1750038456671,
-                        "title": "用户中心 | 小兔互联",
-                        "icon": "https://logo.clearbit.com/www.moebun.com",
-                        "url": "https://www.moebun.com/clientarea"
-                      },
                       {
                         "type": "link",
                         "addDate": 1706704143246,
@@ -8488,6 +8432,48 @@
                             "title": "38.12.7.170:3313 / 127.0.0.1 | phpMyAdmin 5.2.1",
                             "icon": "https://logo.clearbit.com/38.12.7.170",
                             "url": "http://38.12.7.170:3313/mysql/index.php?route=/&route=%2F"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1751528481566,
+                        "title": "购物车 | 小兔互联",
+                        "icon": "https://logo.clearbit.com/moebun.com",
+                        "url": "https://moebun.com/cart"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1751528537043,
+                        "title": "用户中心 | 小兔互联",
+                        "icon": "https://logo.clearbit.com/moebun.com",
+                        "url": "https://moebun.com/clientarea"
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1751528853642,
+                        "title": "新加坡1年",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1751528829069,
+                            "title": "小兔宝塔主机-控制面板",
+                            "icon": "https://logo.clearbit.com/host.luoltu.com",
+                            "url": "https://host.luoltu.com/user/index.php"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1751528856078,
+                            "title": "产品详情 | 小兔互联",
+                            "icon": "https://logo.clearbit.com/moebun.com",
+                            "url": "https://moebun.com/servicedetail?id=5875"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1751529595723,
+                            "title": "引导页",
+                            "icon": "https://logo.clearbit.com/xjp.201068.xyz",
+                            "url": "http://xjp.201068.xyz/"
                           }
                         ]
                       }
@@ -8553,16 +8539,121 @@
               },
               {
                 "type": "folder",
-                "addDate": 1739437328675,
-                "title": "Vercel",
+                "addDate": 1752117598807,
+                "title": "CloudFlare",
                 "children": [
                   {
                     "type": "link",
-                    "addDate": 1739437284115,
-                    "title": "pintree - Overview – Vercel",
-                    "icon": "https://logo.clearbit.com/vercel.com",
-                    "url": "https://vercel.com/fantasycat6s-projects/pintree"
+                    "addDate": 1752117607677,
+                    "title": "帐户主页 | 泡泡 | Cloudflare",
+                    "icon": "https://logo.clearbit.com/dash.cloudflare.com",
+                    "url": "https://dash.cloudflare.com/302a7cebde15d505b8125d0cb7bbbcf2/home/domains"
                   },
+                  {
+                    "type": "folder",
+                    "addDate": 1752119144174,
+                    "title": "Docker",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730027310939,
+                        "title": "Docker Hub Container Image Library | App Containerization",
+                        "icon": "https://logo.clearbit.com/docker.201068.xyz",
+                        "url": "https://docker.201068.xyz/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1752119129998,
+                    "title": "Github",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730027195467,
+                        "title": "GitHub 文件加速",
+                        "icon": "https://logo.clearbit.com/github.201068.xyz",
+                        "url": "https://github.201068.xyz/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1752118943085,
+                    "title": "Telegraph-Image",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1721825367948,
+                        "title": "Telegraph-Image|免费图床",
+                        "icon": "https://logo.clearbit.com/img.201068.xyz",
+                        "url": "https://img.201068.xyz/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1752118955413,
+                        "title": "img.201068.xyz/admin",
+                        "icon": "https://logo.clearbit.com/img.201068.xyz",
+                        "url": "https://img.201068.xyz/admin"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1752119111271,
+                    "title": "VPN",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1737893269894,
+                        "title": "BPB Panel 3.0.4-CT8T_3bJ)EAnsx>B",
+                        "icon": "https://logo.clearbit.com/bpb.papaw.ddns-ip.net",
+                        "url": "https://bpb.papaw.ddns-ip.net/panel"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1737202455695,
+                        "title": "Subscribe",
+                        "icon": "https://logo.clearbit.com/papaw.201068.xyz",
+                        "url": "https://papaw.201068.xyz/paopao"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1735987199562,
+                        "title": "网站代理 --- Siteproxy",
+                        "icon": "https://logo.clearbit.com/dl.201068.xyz",
+                        "url": "https://dl.201068.xyz/paopao/https/www.netptop.com"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1752119093631,
+                    "title": "TV",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1752117484926,
+                        "title": "LibreTV - 免费在线视频搜索与观看平台",
+                        "icon": "https://logo.clearbit.com/libretv.201068.xyz",
+                        "url": "https://libretv.201068.xyz/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1751170977839,
+                        "title": "MoonTV",
+                        "icon": "https://logo.clearbit.com/moontv.201068.xyz",
+                        "url": "https://moontv.201068.xyz/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1739437328675,
+                "title": "Vercel",
+                "children": [
                   {
                     "type": "link",
                     "addDate": 1739437612762,
@@ -8571,25 +8662,53 @@
                     "url": "https://vercel.com/fantasycat6s-projects"
                   },
                   {
-                    "type": "link",
-                    "addDate": 1739438152578,
-                    "title": "Pintree",
-                    "icon": "https://logo.clearbit.com/pintree-orcin-nine.vercel.app",
-                    "url": "https://pintree-orcin-nine.vercel.app/admin/collections"
+                    "type": "folder",
+                    "addDate": 1752119321648,
+                    "title": "PinTree",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1739437284115,
+                        "title": "pintree - Overview – Vercel",
+                        "icon": "https://logo.clearbit.com/vercel.com",
+                        "url": "https://vercel.com/fantasycat6s-projects/pintree"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1739438152578,
+                        "title": "Pintree",
+                        "icon": "https://logo.clearbit.com/pintree-orcin-nine.vercel.app",
+                        "url": "https://pintree-orcin-nine.vercel.app/admin/collections"
+                      }
+                    ]
                   },
                   {
-                    "type": "link",
-                    "addDate": 1739439384769,
-                    "title": "Neon Console",
-                    "icon": "https://logo.clearbit.com/console.neon.tech",
-                    "url": "https://console.neon.tech/app/projects"
+                    "type": "folder",
+                    "addDate": 1752119348439,
+                    "title": "LibreTV",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1746180032316,
+                        "title": "LibreTV - 免费在线视频搜索与观看平台",
+                        "icon": "https://logo.clearbit.com/tv.papaw.dpdns.org",
+                        "url": "https://tv.papaw.dpdns.org/"
+                      }
+                    ]
                   },
                   {
-                    "type": "link",
-                    "addDate": 1741862189909,
-                    "title": "新项目 --- New Project",
-                    "icon": "https://logo.clearbit.com/vercel.com",
-                    "url": "https://vercel.com/new"
+                    "type": "folder",
+                    "addDate": 1752119416740,
+                    "title": "MoonTV",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1751166535807,
+                        "title": "MoonTV",
+                        "icon": "https://logo.clearbit.com/moontv.papaw.dpdns.org",
+                        "url": "https://moontv.papaw.dpdns.org/"
+                      }
+                    ]
                   }
                 ]
               },
@@ -8672,7 +8791,7 @@
               },
               {
                 "type": "folder",
-                "addDate": 1750038766713,
+                "addDate": 1750911069240,
                 "title": "其他",
                 "children": [
                   {
@@ -8782,6 +8901,27 @@
                   },
                   {
                     "type": "folder",
+                    "addDate": 1734399602341,
+                    "title": "雨云",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1734399577381,
+                        "title": "雨云 - 新一代云服务提供商",
+                        "icon": "https://logo.clearbit.com/www.rainyun.com",
+                        "url": "https://www.rainyun.com/home"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1734399639870,
+                        "title": "总览 | 雨云",
+                        "icon": "https://logo.clearbit.com/app.rainyun.com",
+                        "url": "https://app.rainyun.com/dashboard"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
                     "addDate": 1738827439574,
                     "title": "AB云服务器",
                     "children": [
@@ -8803,36 +8943,8 @@
                             "title": "记录列表 - AB二级域名",
                             "icon": "https://logo.clearbit.com/dns.abkj.asia",
                             "url": "https://dns.abkj.asia/home"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1750039106321,
-                            "title": "购物车 | AB云服务器",
-                            "icon": "https://logo.clearbit.com/idc.abkj.asia",
-                            "url": "https://idc.abkj.asia/cart?fid=3&gid=27"
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1734399602341,
-                    "title": "雨云",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1734399577381,
-                        "title": "雨云 - 新一代云服务提供商",
-                        "icon": "https://logo.clearbit.com/www.rainyun.com",
-                        "url": "https://www.rainyun.com/home"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1734399639870,
-                        "title": "总览 | 雨云",
-                        "icon": "https://logo.clearbit.com/app.rainyun.com",
-                        "url": "https://app.rainyun.com/dashboard"
                       }
                     ]
                   },
@@ -8884,6 +8996,104 @@
                         "url": "http://love.jkhx.cn/"
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1751939198776,
+            "title": "数据库",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1751939209793,
+                "title": "Neon",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1751939180096,
+                    "title": "Neon Serverless Postgres — Ship faster",
+                    "icon": "https://logo.clearbit.com/neon.com",
+                    "url": "https://neon.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1739439384769,
+                    "title": "Neon Console",
+                    "icon": "https://logo.clearbit.com/console.neon.tech",
+                    "url": "https://console.neon.tech/app/projects"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1743761515443,
+            "title": "云电脑",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1735805247107,
+                "title": "瑞白云",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1737012518862,
+                    "title": "瑞白云首页 - 瑞白云",
+                    "icon": "https://logo.clearbit.com/www.ruibaicloud.cn",
+                    "url": "https://www.ruibaicloud.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1735805838697,
+                    "title": "其他 | 瑞白云",
+                    "icon": "https://logo.clearbit.com/www.ruibaicloud.cn",
+                    "url": "https://www.ruibaicloud.cn/service?groupid=307"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1735805852562,
+                    "title": "产品详情 | 瑞白云",
+                    "icon": "https://logo.clearbit.com/www.ruibaicloud.cn",
+                    "url": "https://www.ruibaicloud.cn/servicedetail?id=1005"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1737859365754,
+                "title": "速存云",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740796890823,
+                    "title": "用户中心 | 速存云IDC",
+                    "icon": "https://logo.clearbit.com/idc.256443.xyz",
+                    "url": "https://idc.256443.xyz/clientarea"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741135869658,
+                    "title": "CDN专用控制面板",
+                    "icon": "https://logo.clearbit.com/kangle.management.256443.xyz",
+                    "url": "http://kangle.management.256443.xyz:3312/vhost/index.php"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1748255902115,
+                "title": "水墨云",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1748255854484,
+                    "title": "云电脑主页",
+                    "icon": "https://logo.clearbit.com/3389.iis7.net",
+                    "url": "http://3389.iis7.net:35412/"
                   }
                 ]
               }
@@ -10677,6 +10887,97 @@
                     "url": "https://hub.docker.com/repositories/fantasycat"
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1751861439518,
+                "title": "docker2compose",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1751861368783,
+                    "title": "coracoo/docker2compose: 把存量docker 转换为compose.yaml",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/coracoo/docker2compose"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751861892335,
+                    "title": "coracoo/d-tgtadm: 用docker管理iSCSI（tgt）服务，可在绿联、极空间、飞牛NAS部署",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/coracoo/d-tgtadm/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1751937639194,
+                "title": "爱盼",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1751937616747,
+                    "title": "AIPAN.ME - 你的数字生活伙伴",
+                    "icon": "https://logo.clearbit.com/www.aipan.me",
+                    "url": "https://www.aipan.me/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751938166738,
+                    "title": "爱盼短剧 - 海量短剧资源分享平台",
+                    "icon": "https://logo.clearbit.com/duanju.aipan.me",
+                    "url": "https://duanju.aipan.me/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751938155658,
+                    "title": "unilei/aipan-netdisk-search: 不是aipan.me的源码，爱盼资源导航：一款简约的导航网站程序，free forever ~",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/unilei/aipan-netdisk-search"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1751941606996,
+                "title": "三人行服务包",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1751941584028,
+                    "title": "ATaKi-Myt/Last_Three_Service_Package_Free: 三人行服务包 Free 版（Last_Three_Service_Package_Free）",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/ATaKi-Myt/Last_Three_Service_Package_Free"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751942340843,
+                    "title": "raw.githubusercontent.com/ATaKi-Myt/Last_Three_Service_Package/main/Last_Three_Service_Package_Free.sh",
+                    "icon": "https://logo.clearbit.com/raw.githubusercontent.com",
+                    "url": "https://raw.githubusercontent.com/ATaKi-Myt/Last_Three_Service_Package/main/Last_Three_Service_Package_Free.sh"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751943141097,
+                    "title": "gitproxy.click/https://raw.githubusercontent.com/ATaKi-Myt/Last_Three_Service_Package/main/Last_Three_Service_Package_Free.sh",
+                    "icon": "https://logo.clearbit.com/gitproxy.click",
+                    "url": "https://gitproxy.click/https://raw.githubusercontent.com/ATaKi-Myt/Last_Three_Service_Package/main/Last_Three_Service_Package_Free.sh"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1752016771167,
+                "title": "playlistdl",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1752016752830,
+                    "title": "TannerNelson16/playlistdl: A web-based downloader that uses either spotdl or yt-dl depending on the link provided",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/TannerNelson16/playlistdl"
+                  }
+                ]
               }
             ]
           },
@@ -10815,6 +11116,62 @@
                     "title": "Jrohy/webssh: 简易在线终端和sftp工具",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/Jrohy/webssh"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1750931271842,
+                    "title": "部署",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1750931238730,
+                        "title": "搭建webssh服务 - 技能加点",
+                        "icon": "https://logo.clearbit.com/skilladd.org",
+                        "url": "https://skilladd.org/2025/06/24/28.%E6%90%AD%E5%BB%BAwebssh%E6%9C%8D%E5%8A%A1/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1750931290548,
+                        "title": "cmliu/webssh: WebSSH 是一个基于 Web 的轻量级 SSH 管理工具，方便地在浏览器中进行安全的远程服务器管理。",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/cmliu/webssh"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1750931302030,
+                        "title": "WebSSH Console",
+                        "icon": "https://logo.clearbit.com/ssh.cmliussss.net",
+                        "url": "https://ssh.cmliussss.net/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1751936335821,
+                "title": "sshwifty",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1751936318446,
+                    "title": "搭建sshwifty远程连接工具 - 技能加点",
+                    "icon": "https://logo.clearbit.com/skilladd.org",
+                    "url": "https://skilladd.org/2025/07/06/31.%E6%90%AD%E5%BB%BAsshwifty%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751936381981,
+                    "title": "nirui/sshwifty: Web SSH & Telnet (WebSSH & WebTelnet client) 🔮",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/nirui/sshwifty"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751936392685,
+                    "title": "Sshwifty Web SSH Client",
+                    "icon": "https://logo.clearbit.com/sshwifty-demo.nirui.org",
+                    "url": "https://sshwifty-demo.nirui.org/"
                   }
                 ]
               }
@@ -10907,13 +11264,6 @@
                 "addDate": 1737203090718,
                 "title": "edgetunnel",
                 "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1737202455695,
-                    "title": "papaw.201068.xyz/paopao",
-                    "icon": "https://logo.clearbit.com/papaw.201068.xyz",
-                    "url": "https://papaw.201068.xyz/paopao"
-                  },
                   {
                     "type": "link",
                     "addDate": 1737197592672,
@@ -11130,13 +11480,6 @@
                     "title": "DNS records for bpb.yousef.isegaro.com",
                     "icon": "https://logo.clearbit.com/www.nslookup.io",
                     "url": "https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1737893269894,
-                    "title": "BPB Panel 3.0.4",
-                    "icon": "https://logo.clearbit.com/bpb.papaw.ddns-ip.net",
-                    "url": "https://bpb.papaw.ddns-ip.net/panel"
                   },
                   {
                     "type": "link",
@@ -11998,20 +12341,6 @@
                         "url": "https://github.com/oldweb-today/oldweb-today"
                       }
                     ]
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1748414286139,
-                    "title": "SearXNG",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1748414251356,
-                        "title": "mbaozi/SearXNGforWindows: 无需通过 WSL 和 虚拟机，完美适配 Windows 环境，可直接启动运行的 SearXNG",
-                        "icon": "https://logo.clearbit.com/github.com",
-                        "url": "https://github.com/mbaozi/SearXNGforWindows"
-                      }
-                    ]
                   }
                 ]
               },
@@ -12164,13 +12493,6 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1721825367948,
-                "title": "Telegraph-Image|免费图床",
-                "icon": "https://logo.clearbit.com/img.201068.xyz",
-                "url": "https://img.201068.xyz/"
-              },
-              {
-                "type": "link",
                 "addDate": 1730075840737,
                 "title": "ls 命令，Linux ls 命令详解：显示目录内容列表 - Linux 命令搜索引擎",
                 "icon": "https://logo.clearbit.com/love.201068.xyz",
@@ -12267,20 +12589,6 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1730027310939,
-                    "title": "Docker Hub Container Image Library | App Containerization",
-                    "icon": "https://logo.clearbit.com/docker.201068.xyz",
-                    "url": "https://docker.201068.xyz/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1730027195467,
-                    "title": "GitHub 文件加速",
-                    "icon": "https://logo.clearbit.com/github.201068.xyz",
-                    "url": "https://github.201068.xyz/"
-                  },
-                  {
-                    "type": "link",
                     "addDate": 1734920380208,
                     "title": "Introduction · d4m1ts 知识库",
                     "icon": "https://logo.clearbit.com/damit5.201068.xyz",
@@ -12299,13 +12607,6 @@
                     "title": "Siteproxy",
                     "icon": "https://logo.clearbit.com/proxy.201068.xyz",
                     "url": "https://proxy.201068.xyz/paopao/https/www.netptop.com"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1735987199562,
-                    "title": "网站代理 --- Siteproxy",
-                    "icon": "https://logo.clearbit.com/dl.201068.xyz",
-                    "url": "https://dl.201068.xyz/paopao/https/www.netptop.com"
                   }
                 ]
               },
@@ -14932,8 +15233,29 @@
                       {
                         "type": "folder",
                         "addDate": 1737121613295,
-                        "title": "WriteUp",
+                        "title": "wp",
                         "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1737121597974,
+                            "title": "【靶机实战】Apache Log4j2命令执行漏洞复现 - 极核GetShell",
+                            "icon": "https://logo.clearbit.com/get-shell.com",
+                            "url": "https://get-shell.com/4025.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1737122061927,
+                            "title": "【JNDI注入利用工具】JNDIExploit v1.1 - 极核GetShell",
+                            "icon": "https://logo.clearbit.com/get-shell.com",
+                            "url": "https://get-shell.com/4004.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1737122541814,
+                            "title": "【靶机实战】MetInfo4.0 文件上传漏洞复现 - 极核GetShell",
+                            "icon": "https://logo.clearbit.com/get-shell.com",
+                            "url": "https://get-shell.com/3045.html"
+                          },
                           {
                             "type": "link",
                             "addDate": 1737122797821,
@@ -14942,291 +15264,39 @@
                             "url": "https://get-shell.com/%e6%9e%81%e6%a0%b8%e6%94%b6%e5%bd%95/%e7%bb%8f%e9%aa%8c%e7%ac%94%e8%ae%b0"
                           },
                           {
-                            "type": "folder",
-                            "addDate": 1748941410910,
-                            "title": "Alist – 粗心的配置",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748941394741,
-                                "title": "【靶机实战】Alist – 粗心的配置 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/7421.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941652033,
-                            "title": "Druid - 未授权登录爆破",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1746581886598,
-                                "title": "Druid未授权漏洞实战利用 - Azjj - 博客园",
-                                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                                "url": "https://www.cnblogs.com/Azjj/p/16399039.html"
-                              },
-                              {
-                                "type": "link",
-                                "addDate": 1746581399853,
-                                "title": "Druid未授权漏洞深度利用|挖洞技巧，从零基础到精通，收藏这篇就够了！_druid漏洞-CSDN博客",
-                                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                                "url": "https://blog.csdn.net/yy1715713348/article/details/147036900"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941495694,
-                            "title": "Log4j2 - 远程代码执行",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1737121597974,
-                                "title": "【靶机实战】Apache Log4j2命令执行漏洞复现 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/4025.html"
-                              },
-                              {
-                                "type": "link",
-                                "addDate": 1737122061927,
-                                "title": "【JNDI注入利用工具】JNDIExploit v1.1 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/4004.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941587745,
-                            "title": "MetInfo 4.0",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1737122541814,
-                                "title": "【靶机实战】MetInfo4.0 文件上传漏洞复现 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/3045.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941610901,
-                            "title": "WordPress - \"花咲雨町\"",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1742808493191,
-                                "title": "健康检查与故障排除 – WordPress 插件 | WordPress.org China 简体中文",
-                                "icon": "https://logo.clearbit.com/cn.wordpress.org",
-                                "url": "https://cn.wordpress.org/plugins/health-check/"
-                              },
-                              {
-                                "type": "link",
-                                "addDate": 1742808536575,
-                                "title": "【靶机实战】WordPress – 花咲雨町 靶机解题思路 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/6494.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941674610,
-                            "title": "JWT Token - 垂直越权漏洞",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1746584138301,
-                                "title": "【靶机实战】JWT Token 垂直越权漏洞 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/7179.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941748285,
-                            "title": "Mysql – 密码爆破",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748941735706,
-                                "title": "【靶机实战】Mysql – 密码爆破 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/7336.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941772160,
-                            "title": "SSH – 密码爆破",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748941760558,
-                                "title": "【靶机实战】SSH – 密码爆破 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/7326.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941793954,
-                            "title": ".Git - 目录信息泄露",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748941787342,
-                                "title": "【靶机实战】.Git目录信息泄露漏洞 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/7208.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941816669,
-                            "title": "Fastjson 1.2.47 - 远程代码执行",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748941808854,
-                                "title": "【靶机实战】Fastjson 1.2.47 远程代码执行 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/7284.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941850829,
-                            "title": "GeoServer - 远程代码执行",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748941845270,
-                                "title": "【靶机实战】GeoServer 远程代码执行漏洞复现 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/4040.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941876411,
-                            "title": "Shiro550 - Shiro反序列化",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748941870198,
-                                "title": "【靶机实战】Shiro550反序列化漏洞复现 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/4011.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941911468,
-                            "title": "SpringBoot - 信息泄露",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748941905486,
-                                "title": "【靶机实战】SpringBoot Heapdump 信息泄露 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/7218.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941944973,
-                            "title": "ThinkPHP 5.0.23 - 远程代码执行",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748941938181,
-                                "title": "【靶机实战】ThinkPHP 5.0.23 远程代码执行 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/7265.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941975089,
-                            "title": "Vite开发服务器 - 任意文件读取",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748941964806,
-                                "title": "【CVE-2025-30208】Vite开发服务器任意文件读取漏洞 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/6985.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748941999457,
-                            "title": "哪吒监控",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748941991845,
-                                "title": "【思考笔记】对哪吒监控探针的安全性思考与利用 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/6396.html"
-                              },
-                              {
-                                "type": "link",
-                                "addDate": 1748942018494,
-                                "title": "nezhahq/nezha: :trollface: Self-hosted, lightweight server and website monitoring and O&M tool",
-                                "icon": "https://logo.clearbit.com/github.com",
-                                "url": "https://github.com/nezhahq/nezha"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748942083233,
-                            "title": "彩虹目录列表",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748942074073,
-                                "title": "【靶机实战】彩虹目录列表 任意文件上传 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/7239.html"
-                              }
-                            ]
-                          },
-                          {
-                            "type": "folder",
-                            "addDate": 1748942130699,
-                            "title": "朵米客服平台",
-                            "children": [
-                              {
-                                "type": "link",
-                                "addDate": 1748942117106,
-                                "title": "【靶机实战】朵米客服平台 文件上传漏洞复现 - 极核GetShell",
-                                "icon": "https://logo.clearbit.com/get-shell.com",
-                                "url": "https://get-shell.com/3153.html"
-                              }
-                            ]
+                            "type": "link",
+                            "addDate": 1742808493191,
+                            "title": "健康检查与故障排除 – WordPress 插件 | WordPress.org China 简体中文",
+                            "icon": "https://logo.clearbit.com/cn.wordpress.org",
+                            "url": "https://cn.wordpress.org/plugins/health-check/"
                           },
                           {
                             "type": "link",
-                            "addDate": 1748942297181,
-                            "title": "渗透记录 - 极核GetShell",
+                            "addDate": 1742808536575,
+                            "title": "【靶机实战】WordPress – 花咲雨町 靶机解题思路 - 极核GetShell",
                             "icon": "https://logo.clearbit.com/get-shell.com",
-                            "url": "https://get-shell.com/%e6%9e%81%e6%a0%b8%e6%94%b6%e5%bd%95/%e6%b8%97%e9%80%8f%e8%ae%b0%e5%bd%95"
+                            "url": "https://get-shell.com/6494.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1746581399853,
+                            "title": "Druid未授权漏洞深度利用|挖洞技巧，从零基础到精通，收藏这篇就够了！_druid漏洞-CSDN博客",
+                            "icon": "https://logo.clearbit.com/blog.csdn.net",
+                            "url": "https://blog.csdn.net/yy1715713348/article/details/147036900"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1746581886598,
+                            "title": "Druid未授权漏洞实战利用 - Azjj - 博客园",
+                            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                            "url": "https://www.cnblogs.com/Azjj/p/16399039.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1746584138301,
+                            "title": "【靶机实战】JWT Token 垂直越权漏洞 - 极核GetShell",
+                            "icon": "https://logo.clearbit.com/get-shell.com",
+                            "url": "https://get-shell.com/7179.html"
                           }
                         ]
                       }
@@ -15607,104 +15677,6 @@
                         "title": "第71篇：某银行外网打点到内网核心区红队评估复盘",
                         "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
                         "url": "https://mp.weixin.qq.com/s/qaZLga5ZHAUZnE-UV5A6fA"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1748924185739,
-                    "title": "州弟学安全",
-                    "children": [
-                      {
-                        "type": "folder",
-                        "addDate": 1748924185739,
-                        "title": "WEB渗透靶场",
-                        "children": [
-                          {
-                            "type": "link",
-                            "addDate": 1748924161803,
-                            "title": "渗透测试|学姐为获取靶场WP，竟不惜以黑丝诱惑我 - 哔哩哔哩",
-                            "icon": "https://logo.clearbit.com/www.bilibili.com",
-                            "url": "https://www.bilibili.com/opus/1050689574937821187"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1748924187363,
-                            "title": "企业官网 - 专注于提供优质服务",
-                            "icon": "https://logo.clearbit.com/111.119.241.115",
-                            "url": "http://111.119.241.115:10088/"
-                          }
-                        ]
-                      },
-                      {
-                        "type": "folder",
-                        "addDate": 1748924230068,
-                        "title": "某金融程序靶场测试",
-                        "children": [
-                          {
-                            "type": "link",
-                            "addDate": 1748923903107,
-                            "title": "渗透测试|学校教不会的我来教，某金融程序靶场测试的项目式教学 - 哔哩哔哩",
-                            "icon": "https://logo.clearbit.com/www.bilibili.com",
-                            "url": "https://www.bilibili.com/opus/1074059604392935430"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1748925702773,
-                            "title": "资金云控系统",
-                            "icon": "https://logo.clearbit.com/111.119.241.115",
-                            "url": "http://111.119.241.115:18899/login.html"
-                          }
-                        ]
-                      },
-                      {
-                        "type": "folder",
-                        "addDate": 1748939189759,
-                        "title": "某医院系统",
-                        "children": [
-                          {
-                            "type": "link",
-                            "addDate": 1748939179413,
-                            "title": "应急加固|超详细的某医院系统被脱库 从溯源到报告输出的项目式教学 - 哔哩哔哩",
-                            "icon": "https://logo.clearbit.com/www.bilibili.com",
-                            "url": "https://www.bilibili.com/opus/1065938164825194502"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1748939465268,
-                            "title": "应急响应官方版下载丨最新版下载丨绿色版下载丨APP下载-123云盘",
-                            "icon": "https://logo.clearbit.com/www.123684.com",
-                            "url": "https://www.123684.com/s/oJnajv-EzWnh"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1748939608981,
-                    "title": "玄机",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1748939589837,
-                        "title": "登陆 · 玄机 - EDISEC",
-                        "icon": "https://logo.clearbit.com/xj.edisec.net",
-                        "url": "https://xj.edisec.net/signin?redirect=%2Fchallenges%2F140"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1748939729144,
-                        "title": "玄机邀请码领取",
-                        "icon": "https://logo.clearbit.com/docs.qq.com",
-                        "url": "https://docs.qq.com/sheet/DVmhBU3Z5QXJ2RlVP?tab=BB08J2"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1748940046846,
-                        "title": "玄机 - EDISEC",
-                        "icon": "https://logo.clearbit.com/xj.edisec.net",
-                        "url": "https://xj.edisec.net/"
                       }
                     ]
                   }
@@ -20118,104 +20090,6 @@
       },
       {
         "type": "folder",
-        "addDate": 1749040369508,
-        "title": "暖通",
-        "children": [
-          {
-            "type": "folder",
-            "addDate": 1749040401964,
-            "title": "AutoCAD",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1749040378373,
-                "title": "Autodesk 欧特克官网-三维设计、工程和施工软件",
-                "icon": "https://logo.clearbit.com/www.autodesk.com.cn",
-                "url": "https://www.autodesk.com.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749040411942,
-                "title": "Autodesk AutoCAD 2026 - 获取价格和购买官方 AutoCAD 软件",
-                "icon": "https://logo.clearbit.com/www.autodesk.com.cn",
-                "url": "https://www.autodesk.com.cn/products/autocad/overview"
-              },
-              {
-                "type": "link",
-                "addDate": 1749040702852,
-                "title": "2025AutoCAD序列号和密钥AutoCAD下载安装激活教程 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/708096504"
-              },
-              {
-                "type": "link",
-                "addDate": 1749040874189,
-                "title": "【软件资源长期更新】★ .lxtable",
-                "icon": "https://logo.clearbit.com/note.youdao.com",
-                "url": "https://note.youdao.com/ynoteshare/index.html?id=ce9e1c5bde9e69d261e4bd6494c8d148&type=note&_time=1749040688337"
-              },
-              {
-                "type": "link",
-                "addDate": 1749086361280,
-                "title": "夸克网盘分享",
-                "icon": "https://logo.clearbit.com/pan.quark.cn",
-                "url": "https://pan.quark.cn/s/61e71e296eab#/list/share"
-              },
-              {
-                "type": "link",
-                "addDate": 1749086467631,
-                "title": "软件_免费高速下载|百度网盘-分享无限制",
-                "icon": "https://logo.clearbit.com/pan.baidu.com",
-                "url": "https://pan.baidu.com/s/1H6E4z4sf-vo1xfpK0YC0Bw?pwd=8888#list/path=%2F"
-              },
-              {
-                "type": "link",
-                "addDate": 1749087313942,
-                "title": "【全网最简单】CAD2025安装教程，0基础也能看懂，100%成功安装！_哔哩哔哩_bilibili",
-                "icon": "https://logo.clearbit.com/www.bilibili.com",
-                "url": "https://www.bilibili.com/video/BV1vsJtzBECs/?spm_id_from=333.337.search-card.all.click&vd_source=19e5c52aaf24a82e73bf5254e682a373"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1749046154687,
-            "title": "资源",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1749046142661,
-                "title": "学兔兔_(原标准分享网)_专注工程技术学习网站_论文资料标准分享网",
-                "icon": "https://logo.clearbit.com/www.bzfxw.com",
-                "url": "http://www.bzfxw.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749046205661,
-                "title": "暖通空调工程设计与施工系列丛书 暖通空调识图与造价-书籍手册 - 建筑书籍",
-                "icon": "https://logo.clearbit.com/www.bzfxw.com",
-                "url": "http://www.bzfxw.com/soft/sort011/sort038/727469.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1749046382198,
-                "title": "GB/T 50114-2010 高清晰版 暖通空调制图标准-建筑标准 - 规章规范",
-                "icon": "https://logo.clearbit.com/www.bzfxw.com",
-                "url": "http://www.bzfxw.com/soft/sort025/sort035/909193.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1749084229815,
-                "title": "GB 50243-2016 通风与空调工程施工质量验收规范 清晰版-建筑标准 - 规章规范",
-                "icon": "https://logo.clearbit.com/www.bzfxw.com",
-                "url": "http://www.bzfxw.com/soft/sort025/sort035/904660.html"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1734782111859,
         "title": "招聘",
         "children": [
@@ -20461,13 +20335,6 @@
                 "title": "BOE(京东方)社会招聘",
                 "icon": "https://logo.clearbit.com/career.boe.com",
                 "url": "https://career.boe.com/professionals"
-              },
-              {
-                "type": "link",
-                "addDate": 1749005453580,
-                "title": "加入我们-京东方官网",
-                "icon": "https://logo.clearbit.com/www.boe.com.cn",
-                "url": "https://www.boe.com.cn/join/index"
               }
             ]
           }
@@ -20631,20 +20498,6 @@
             "title": "凌星阁",
             "icon": "https://logo.clearbit.com/sec.lintstar.top",
             "url": "https://sec.lintstar.top/"
-          },
-          {
-            "type": "link",
-            "addDate": 1748410398002,
-            "title": "小梦导航站",
-            "icon": "https://logo.clearbit.com/dh.ltdrfun.cn",
-            "url": "https://dh.ltdrfun.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1748678020744,
-            "title": "首页 | Qiongjing的资源集合",
-            "icon": "https://logo.clearbit.com/wiki.qiongjing.top",
-            "url": "https://wiki.qiongjing.top/"
           }
         ]
       },
@@ -21948,13 +21801,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1730420019888,
-                "title": "NapNeko/NapCat-Docker: NapCat-Docker",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/NapNeko/NapCat-Docker"
-              },
-              {
-                "type": "link",
                 "addDate": 1730420022560,
                 "title": "NapNeko/NapCat-Installer: NapCat 启动!",
                 "icon": "https://logo.clearbit.com/github.com",
@@ -22155,6 +22001,55 @@
                 "title": "飞书，AI 时代先进生产力平台，提供一站式工作协同、组织管理、业务提效工具和深入企业场景的 AI 能力，助力企业能增长，有巧降",
                 "icon": "https://logo.clearbit.com/www.feishu.cn",
                 "url": "https://www.feishu.cn/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1750934895130,
+            "title": "NapCat",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1750934862606,
+                "title": "bietiaop/NextNapCatWebUI: 适用于NapCat的WebUI",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/bietiaop/NextNapCatWebUI"
+              },
+              {
+                "type": "link",
+                "addDate": 1750934968485,
+                "title": "NapNeko/NapCatQQ: Modern protocol-side framework based on NTQQ",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/NapNeko/NapCatQQ"
+              },
+              {
+                "type": "link",
+                "addDate": 1750937251928,
+                "title": "NapCatQQ | 现代化的基于 NTQQ 的 Bot 协议端实现",
+                "icon": "https://logo.clearbit.com/napneko.pages.dev",
+                "url": "https://napneko.pages.dev/"
+              },
+              {
+                "type": "folder",
+                "addDate": 1750942194955,
+                "title": "部署",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1750942179611,
+                    "title": "基础信息 - NapCat WebUI",
+                    "icon": "https://logo.clearbit.com/napcat.201068.xyz",
+                    "url": "https://napcat.201068.xyz/webui/"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1730420019888,
+                "title": "NapNeko/NapCat-Docker: NapCat-Docker",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/NapNeko/NapCat-Docker"
               }
             ]
           }
@@ -23289,6 +23184,34 @@
                 "title": "库街区 - 推荐",
                 "icon": "https://logo.clearbit.com/www.kurobbs.com",
                 "url": "https://www.kurobbs.com/mc/home/9"
+              },
+              {
+                "type": "folder",
+                "addDate": 1751527882749,
+                "title": "云玩",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1751527866062,
+                    "title": "云·鸣潮 - Wuthering Waves",
+                    "icon": "https://logo.clearbit.com/mc.kurogames.com",
+                    "url": "https://mc.kurogames.com/cloud/#/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1751528406481,
+                "title": "自动",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1751528393067,
+                    "title": "ok-oldking/ok-wuthering-waves: 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/ok-oldking/ok-wuthering-waves"
+                  }
+                ]
               }
             ]
           },
@@ -23989,6 +23912,13 @@
                 "title": "夸克网盘分享",
                 "icon": "https://logo.clearbit.com/pan.quark.cn",
                 "url": "https://pan.quark.cn/s/07e9f08c81cd#/list/share/e2ab77ea53a34c8d97654762037e8f0e-PvZ%20Ultimate"
+              },
+              {
+                "type": "link",
+                "addDate": 1751527694894,
+                "title": "夸克网盘分享",
+                "icon": "https://logo.clearbit.com/pan.quark.cn",
+                "url": "https://pan.quark.cn/s/be6f5f60b49a#/list/share"
               }
             ]
           },
@@ -24288,22 +24218,15 @@
           },
           {
             "type": "folder",
-            "addDate": 1748410539760,
-            "title": "加速器",
+            "addDate": 1751527506480,
+            "title": "好游快爆",
             "children": [
               {
-                "type": "folder",
-                "addDate": 1748410539760,
-                "title": "筷船游戏加速器",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1748410498702,
-                    "title": "筷船游戏加速器 – 不止快，还很稳，努力成长中的游戏加速器！",
-                    "icon": "https://logo.clearbit.com/chopix.cn",
-                    "url": "https://chopix.cn/"
-                  }
-                ]
+                "type": "link",
+                "addDate": 1751527494461,
+                "title": "好游快爆_好游快爆官网_好游快爆app下载-抢先玩新鲜好游戏",
+                "icon": "https://logo.clearbit.com/www.3839.com",
+                "url": "https://www.3839.com/"
               }
             ]
           }
@@ -24540,6 +24463,13 @@
                     "title": "PotPlayer直播源 2025年最新IPTV m3u8直播源下载 - PotPlayer中文网",
                     "icon": "https://logo.clearbit.com/www.potplayercn.com",
                     "url": "http://www.potplayercn.com/course/2916.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751536990629,
+                    "title": "饭太硬 | 导航",
+                    "icon": "https://logo.clearbit.com/www.xn--sss604efuw.com",
+                    "url": "https://www.xn--sss604efuw.com/"
                   }
                 ]
               },
@@ -24620,33 +24550,82 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1746180032316,
-                    "title": "LibreTV - 免费在线视频搜索与观看平台",
-                    "icon": "https://logo.clearbit.com/tv.papaw.dpdns.org",
-                    "url": "https://tv.papaw.dpdns.org/"
+                    "addDate": 1750566692548,
+                    "title": "LibreTV - 自由观影，畅享精彩",
+                    "icon": "https://logo.clearbit.com/libretv.is-an.org",
+                    "url": "https://libretv.is-an.org/"
                   }
                 ]
               },
               {
-                "type": "link",
-                "addDate": 1748668546486,
-                "title": "夸克网盘分享-乘风TV",
-                "icon": "https://logo.clearbit.com/pan.quark.cn",
-                "url": "https://pan.quark.cn/s/c93427a25417#/list/share"
+                "type": "folder",
+                "addDate": 1751165380936,
+                "title": "MoonTV",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1751165358121,
+                    "title": "senshinya/MoonTV",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/senshinya/MoonTV"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751165920719,
+                    "title": "MoonTV",
+                    "icon": "https://logo.clearbit.com/moontv-demo.shinya.click",
+                    "url": "https://moontv-demo.shinya.click/aggregate?q=%E4%B9%A6%E5%8D%B7%E4%B8%80%E6%A2%A6"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751166016648,
+                    "title": "MoonTV",
+                    "icon": "https://logo.clearbit.com/moon-tv-zeta-seven.vercel.app",
+                    "url": "https://moon-tv-zeta-seven.vercel.app/"
+                  }
+                ]
               },
               {
-                "type": "link",
-                "addDate": 1748670272904,
-                "title": "mytv-android/mytv-android: 基于天光云影3.3.9，使用Android原生开发的电视直播软件",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/mytv-android/mytv-android"
-              },
-              {
-                "type": "link",
-                "addDate": 1748673746062,
-                "title": "饭太硬 | 导航",
-                "icon": "https://logo.clearbit.com/www.xn--sss604efuw.com",
-                "url": "http://www.xn--sss604efuw.com/"
+                "type": "folder",
+                "addDate": 1751535351861,
+                "title": "FreeBox",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1751535329797,
+                    "title": "kknifer7/FreeBox: TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/kknifer7/FreeBox"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751535402139,
+                    "title": "kknifer7/TVBoxOS-K: 与 FreeBox 搭配使用的安卓端 TVBox",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/kknifer7/TVBoxOS-K"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751535434022,
+                    "title": "Greatwallcorner/CatVodSpider: 基于fonmi/CatVodSpider, 专用于TV-Multiplatform",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/Greatwallcorner/CatVodSpider"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751535506839,
+                    "title": "FreeBox - Browse /v1.0.1 at SourceForge.net",
+                    "icon": "https://logo.clearbit.com/sourceforge.net",
+                    "url": "https://sourceforge.net/projects/freeboxk/files/v1.0.1/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751535597535,
+                    "title": "TVBox-K_v1.0.0--5zyo",
+                    "icon": "https://logo.clearbit.com/wwzj.lanzoul.com",
+                    "url": "https://wwzj.lanzoul.com/b0138xz5bi"
+                  }
+                ]
               }
             ]
           },
@@ -24997,6 +24976,13 @@
                 "title": "永久地址 👉",
                 "icon": "https://logo.clearbit.com/sway.cloud.microsoft",
                 "url": "https://sway.cloud.microsoft/FDb30IRr0qxko8QS"
+              },
+              {
+                "type": "link",
+                "addDate": 1751285389198,
+                "title": "夸克网盘分享",
+                "icon": "https://logo.clearbit.com/pan.quark.cn",
+                "url": "https://pan.quark.cn/s/35d6b7381265?pwd=VQBZ#/list/share"
               }
             ]
           },
@@ -25261,22 +25247,57 @@
           },
           {
             "type": "folder",
-            "addDate": 1748413999000,
+            "addDate": 1751272270839,
             "title": "FFmpeg",
             "children": [
               {
                 "type": "link",
-                "addDate": 1748413952208,
-                "title": "Lake1059/FFmpegFreeUI: 3FUI 是 ffmpeg 在 Windows 上的专业交互外壳，也就是转码软件。开发目的：他奶奶滴，都TM不好好做是吧，做不好那就都别做了！",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/Lake1059/FFmpegFreeUI"
+                "addDate": 1751272249013,
+                "title": "John Van Sickle - FFmpeg Static Builds",
+                "icon": "https://logo.clearbit.com/johnvansickle.com",
+                "url": "https://johnvansickle.com/ffmpeg/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1751285716578,
+            "title": "CloudSaver",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1751285709769,
+                "title": "江江好-CloudSaver!自己开发了一个网盘资源搜索并一键转存工具！舒服了！ | 江江好",
+                "icon": "https://logo.clearbit.com/jiangmuxin.cn",
+                "url": "https://jiangmuxin.cn/archives/cloud-saver"
               },
               {
                 "type": "link",
-                "addDate": 1748414009792,
-                "title": "Release 开发阶段 0.3 · Lake1059/FFmpegFreeUI",
+                "addDate": 1751285718723,
+                "title": "jiangrui1994/CloudSaver: 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。",
                 "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/Lake1059/FFmpegFreeUI/releases/tag/0.3"
+                "url": "https://github.com/jiangrui1994/CloudSaver"
+              },
+              {
+                "type": "link",
+                "addDate": 1751288908780,
+                "title": "CloudSaver部署与使用常见问题-me16",
+                "icon": "https://logo.clearbit.com/www.yuque.com",
+                "url": "https://www.yuque.com/xiaoruihenbangde/ggogn3/ga6gaaiy5fsyw62l#veNIz"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1751941017773,
+            "title": "爱盼",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1751940992125,
+                "title": "AIPAN.ME - 你的数字生活伙伴",
+                "icon": "https://logo.clearbit.com/www.aipan.me",
+                "url": "https://www.aipan.me/user/dashboard"
               }
             ]
           }
@@ -25599,6 +25620,13 @@
                 "title": "imsyy/SPlayer: 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/imsyy/SPlayer"
+              },
+              {
+                "type": "link",
+                "addDate": 1750567750604,
+                "title": "Binaryify/NeteaseCloudMusicApi: 网易云音乐 Node.js API service",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Binaryify/NeteaseCloudMusicApi"
               }
             ]
           },
@@ -25739,6 +25767,20 @@
                 "title": "Radiocast – 探索世界各地的广播电台 --- Radiocast – Explore world radio stations",
                 "icon": "https://logo.clearbit.com/radiocast.co",
                 "url": "https://radiocast.co/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1751165294339,
+            "title": "musicfree",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1751165271192,
+                "title": "maotoumao/MusicFree: 插件化、定制化、无广告的免费音乐播放器",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/maotoumao/MusicFree"
               }
             ]
           }
@@ -26222,27 +26264,6 @@
                 "title": "山海之花网站",
                 "icon": "https://logo.clearbit.com/cbge.top",
                 "url": "https://cbge.top/"
-              },
-              {
-                "type": "folder",
-                "addDate": 1748678173568,
-                "title": "qiongjing",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1748678128387,
-                    "title": "夸克网盘分享",
-                    "icon": "https://logo.clearbit.com/pan.quark.cn",
-                    "url": "https://pan.quark.cn/s/2eb27125afac#/list/share"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1748677628744,
-                    "title": "Qiongjing | Link3",
-                    "icon": "https://logo.clearbit.com/link3.cc",
-                    "url": "https://link3.cc/Qiongjing"
-                  }
-                ]
               }
             ]
           },
@@ -26470,15 +26491,43 @@
               },
               {
                 "type": "folder",
-                "addDate": 1750030661171,
-                "title": "官网",
+                "addDate": 1750394281439,
+                "title": "OpenList",
                 "children": [
                   {
                     "type": "link",
-                    "addDate": 1750030648026,
-                    "title": "Home | AList文档",
-                    "icon": "https://logo.clearbit.com/alistgo.com",
-                    "url": "https://alistgo.com/zh/"
+                    "addDate": 1750394243238,
+                    "title": "OpenListTeam/OpenList: A new AList Fork to Anti Trust Crisis",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/OpenListTeam/OpenList"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750394294018,
+                    "title": "Home | OpenList 文档",
+                    "icon": "https://logo.clearbit.com/oplist.org",
+                    "url": "https://oplist.org/zh/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750394531653,
+                    "title": "使用 Docker | OpenList 文档",
+                    "icon": "https://logo.clearbit.com/oplist.org",
+                    "url": "https://oplist.org/zh/guide/install/docker.html#docker-cli"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750394977996,
+                    "title": "OpenList Token 获取工具",
+                    "icon": "https://logo.clearbit.com/api.oplist.org",
+                    "url": "https://api.oplist.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751951966400,
+                    "title": "Home | OpenList 文档",
+                    "icon": "https://logo.clearbit.com/docs.openlist.team",
+                    "url": "https://docs.openlist.team/zh/"
                   }
                 ]
               }
@@ -26547,7 +26596,7 @@
               },
               {
                 "type": "folder",
-                "addDate": 1750029079716,
+                "addDate": 1750910532487,
                 "title": "喵公子",
                 "children": [
                   {
@@ -26561,12 +26610,12 @@
               },
               {
                 "type": "folder",
-                "addDate": 1750029035426,
+                "addDate": 1750148267114,
                 "title": "喵星云盘",
                 "children": [
                   {
                     "type": "link",
-                    "addDate": 1750028978163,
+                    "addDate": 1750148246466,
                     "title": "喵星云盘",
                     "icon": "https://logo.clearbit.com/pan.miaostars.com",
                     "url": "https://pan.miaostars.com/home?path=%2F"
@@ -26589,8 +26638,8 @@
               },
               {
                 "type": "folder",
-                "addDate": 1750029205394,
-                "title": "huang1111网盘",
+                "addDate": 1750910557362,
+                "title": "huang111网盘",
                 "children": [
                   {
                     "type": "link",
@@ -26603,7 +26652,7 @@
               },
               {
                 "type": "folder",
-                "addDate": 1750029166259,
+                "addDate": 1750910510873,
                 "title": "荼蘼云盘",
                 "children": [
                   {
@@ -27522,118 +27571,6 @@
         "children": [
           {
             "type": "folder",
-            "addDate": 1709015050807,
-            "title": "MacOS",
-            "children": [
-              {
-                "type": "folder",
-                "addDate": 1721099657393,
-                "title": "MacOS官网",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1709015035678,
-                    "title": "管理你的 Apple ID",
-                    "icon": "https://logo.clearbit.com/appleid.apple.com",
-                    "url": "https://appleid.apple.com/account/manage"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1709015152839,
-                    "title": "数据和隐私",
-                    "icon": "https://logo.clearbit.com/privacy.apple.com",
-                    "url": "https://privacy.apple.com/"
-                  }
-                ]
-              },
-              {
-                "type": "link",
-                "addDate": 1709005123271,
-                "title": "如何在 VM 虚拟机上安装 macOS 14 索诺玛 最新系统? – 零度解说",
-                "icon": "https://logo.clearbit.com/www.freedidi.com",
-                "url": "https://www.freedidi.com/9945.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1709005148855,
-                "title": "macOS Sonoma ISO",
-                "icon": "https://logo.clearbit.com/www.mediafire.com",
-                "url": "https://www.mediafire.com/file/lzlounvkwazy948/macOS+Sonoma+ISO.iso/file"
-              },
-              {
-                "type": "link",
-                "addDate": 1709005264712,
-                "title": "paolo-projects/unlocker: VMware Workstation macOS",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/paolo-projects/unlocker"
-              },
-              {
-                "type": "link",
-                "addDate": 1709006391425,
-                "title": "【一定能解决】虚拟机安装mac系统报错：客户机操作系统已禁用 CPU，请关闭或重置虚拟机_用虚拟机装苹果系统的时候显示客户机操作系统-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/weixin_46585199/article/details/122147713"
-              },
-              {
-                "type": "link",
-                "addDate": 1746746356015,
-                "title": "虚拟机安装 macOS 黑苹果系统！所需要的资料-零度博客",
-                "icon": "https://logo.clearbit.com/www.freedidi.com",
-                "url": "https://www.freedidi.com/5257.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1746746379822,
-                "title": "macOS Big Sur 11.0.1 (20B29)",
-                "icon": "https://logo.clearbit.com/www.mediafire.com",
-                "url": "https://www.mediafire.com/file/dbfod9u5q9ii9nd/macOS_Big_Sur_11.0.1_%252820B29%2529.iso/file"
-              },
-              {
-                "type": "link",
-                "addDate": 1746746407966,
-                "title": "paolo-projects/auto-unlocker: Unlocker for VMWare macOS",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/paolo-projects/auto-unlocker"
-              },
-              {
-                "type": "folder",
-                "addDate": 1746764241240,
-                "title": "macOS Sequoia15",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1746764256841,
-                    "title": "Windows VMware 一键使用 macOS Sequoia15黑苹果屋OpenCore引导 免安装版（unlocker解锁补丁版） - 黑苹果屋",
-                    "icon": "https://logo.clearbit.com/imacos.top",
-                    "url": "https://imacos.top/2025/04/29/4512-2/"
-                  }
-                ]
-              },
-              {
-                "type": "link",
-                "addDate": 1746773523260,
-                "title": "macOS系统下载|macOS原版系统,mac系统ISO镜像永久免费下载 - 苹果系统之家",
-                "icon": "https://logo.clearbit.com/macoshome.com",
-                "url": "https://macoshome.com/macos"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1712115066270,
-            "title": "manjaro",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1712115048294,
-                "title": "Manjaro 下载",
-                "icon": "https://logo.clearbit.com/manjaro.org",
-                "url": "https://manjaro.org/download/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
             "addDate": 1715078933525,
             "title": "Windows",
             "children": [
@@ -27810,36 +27747,29 @@
                       },
                       {
                         "type": "folder",
-                        "addDate": 1749682526223,
-                        "title": "密钥",
+                        "addDate": 1751856194861,
+                        "title": "官网",
                         "children": [
                           {
                             "type": "link",
-                            "addDate": 1749682503654,
-                            "title": "适用于 Windows Server 和 Windows 的密钥管理服务 (KMS) 客户端激活和产品密钥 | Microsoft Learn",
-                            "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                            "url": "https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81"
-                          }
-                        ]
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1749682530190,
-                        "title": "Windows Server 2025 正式发布！低配电脑也能轻松驾驭，无广告更纯净！ 免费下载+激活-零度博客",
-                        "icon": "https://logo.clearbit.com/www.freedidi.com",
-                        "url": "https://www.freedidi.com/19562.html"
-                      },
-                      {
-                        "type": "folder",
-                        "addDate": 1749682587228,
-                        "title": "下载",
-                        "children": [
+                            "addDate": 1751856172037,
+                            "title": "Windows Server 2025 正式发布！低配电脑也能轻松驾驭，无广告更纯净！ 免费下载+激活-零度博客",
+                            "icon": "https://logo.clearbit.com/www.freedidi.com",
+                            "url": "https://www.freedidi.com/19562.html"
+                          },
                           {
                             "type": "link",
-                            "addDate": 1749682571374,
+                            "addDate": 1751856227149,
                             "title": "Microsoft 评估中心 | Windows Server 2025",
                             "icon": "https://logo.clearbit.com/www.microsoft.com",
                             "url": "https://www.microsoft.com/zh-cn/evalcenter/download-windows-server-2025"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1751856230773,
+                            "title": "密钥管理服务 (KMS) 客户端激活和产品密钥 | Microsoft Learn",
+                            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+                            "url": "https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys?tabs=windows1110ltsc%2Cwindows81%2Cserver2025%2Cversion1803"
                           }
                         ]
                       }
@@ -27984,50 +27914,379 @@
           },
           {
             "type": "folder",
-            "addDate": 1717579203295,
-            "title": "Ubuntu",
+            "addDate": 1751854979567,
+            "title": "Linux",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1717579203295,
+                "title": "Ubuntu",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1717579181807,
+                    "title": "VMware虚拟机安装Ubuntu24.04教程（中文）_ubuntu24.04下载-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq_44490498/article/details/138261865"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1717579309097,
+                    "title": "下载Ubuntu桌面系统 | Ubuntu",
+                    "icon": "https://logo.clearbit.com/cn.ubuntu.com",
+                    "url": "https://cn.ubuntu.com/download/desktop"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718082617637,
+                    "title": "【Ubuntu】Ubuntu22.04更新软件源_ubuntu22.04换源-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/dengjin20104042056/article/details/131745035"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718082644997,
+                    "title": "openssh-server安装之后有的时候 vi /etc/ssh/sshd_config文件为空，特意贴出ubun安装之后有的时候 vim /etc/ssh/sshd_config文件为空_ssh的config文件空白-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/weimw123/article/details/134891789"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1739881257880,
+                    "title": "kali 窗口栏消失解决办法_kali顶端菜单栏不见了-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/weixin_43376075/article/details/134347545"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1744930619458,
+                    "title": "OpenFDE - 可以使用任意安卓应用、玩安卓游戏的 Linux 桌面",
+                    "icon": "https://logo.clearbit.com/openfde.com",
+                    "url": "https://openfde.com/zh-CN"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1748253306109,
+                "title": "Debian",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1748253285038,
+                    "title": "Debian -- Debian 安装程序",
+                    "icon": "https://logo.clearbit.com/www.debian.org",
+                    "url": "https://www.debian.org/devel/debian-installer/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1751854904741,
+                "title": "Kali",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1751854888535,
+                    "title": "Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution",
+                    "icon": "https://logo.clearbit.com/www.kali.org",
+                    "url": "https://www.kali.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751854909294,
+                    "title": "Get Kali | Kali Linux",
+                    "icon": "https://logo.clearbit.com/www.kali.org",
+                    "url": "https://www.kali.org/get-kali/#kali-platforms"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1744275769217,
+                    "title": "config",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1744275760719,
+                        "title": "Kali Linux 2024.4语言设置成中文-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/qq317781007/article/details/145588200"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1748312241355,
+                    "title": "换源",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1748312222249,
+                        "title": "Kali 更换源（超详细，附国内优质镜像源地址）_kali换源-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/2401_85280228/article/details/146268295"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1748312944969,
+                        "title": "kali update 报错，换中科大源_kali update报错-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/qq_24768591/article/details/143944816"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1748313414322,
+                        "title": "kali更新源7_kali 最新apt源-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/qq_44624916/article/details/143263111"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1745678686110,
+                "title": "Red Hat",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1745678662663,
+                    "title": "Red Hat Enterprise Linux 9.5 发布下载，新增功能概览Red Hat Enterprise L - 掘金",
+                    "icon": "https://logo.clearbit.com/juejin.cn",
+                    "url": "https://juejin.cn/post/7437697944688836659"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1745678714046,
+                    "title": "Red Hat Enterprise Linux 9.5 (x86_64, aarch64) - 红帽企业 Linux (RHEL) - sysin | SYStem INside | 软件与技术分享",
+                    "icon": "https://logo.clearbit.com/sysin.org",
+                    "url": "https://sysin.org/blog/rhel-9/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1735995026028,
+                "title": "wubuntu",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1735995007909,
+                    "title": "Wubuntu 一款最像 Windows 11 的 Linux系统-零度博客",
+                    "icon": "https://logo.clearbit.com/www.freedidi.com",
+                    "url": "https://www.freedidi.com/17736.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1735995172005,
+                    "title": "下载 - Windows Ubuntu 操作系统 --- Download – Windows Ubuntu Operating System",
+                    "icon": "https://logo.clearbit.com/wubuntu.org",
+                    "url": "https://wubuntu.org/download/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1735995235333,
+                    "title": "Wubuntu Operating System - Browse Files at SourceForge.net",
+                    "icon": "https://logo.clearbit.com/sourceforge.net",
+                    "url": "https://sourceforge.net/projects/windows-ubuntu/files/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1746928147084,
+                "title": "Parrot OS",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1746928125281,
+                    "title": "Parrot Security",
+                    "icon": "https://logo.clearbit.com/www.parrotsec.org",
+                    "url": "https://www.parrotsec.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746928217615,
+                    "title": "Parrot Security --- Parrot Security",
+                    "icon": "https://logo.clearbit.com/parrotsec.org",
+                    "url": "https://parrotsec.org/download/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1746931220253,
+                    "title": "Parrot 6.3 Release Notes",
+                    "icon": "https://logo.clearbit.com/www.parrotsec.org",
+                    "url": "https://www.parrotsec.org/blog/2025-01-31-parrot-6.3-release-notes/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1751854797272,
+                "title": "deepin",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1751854776022,
+                    "title": "deepin - 基于Linux的开源国产操作系统",
+                    "icon": "https://logo.clearbit.com/www.deepin.org",
+                    "url": "https://www.deepin.org/index/zh"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751854809847,
+                    "title": "最新版本系统下载 – 深度科技社区",
+                    "icon": "https://logo.clearbit.com/www.deepin.org",
+                    "url": "https://www.deepin.org/zh/download/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751854827478,
+                    "title": "重庆大学开源软件镜像站",
+                    "icon": "https://logo.clearbit.com/mirrors.cqu.edu.cn",
+                    "url": "https://mirrors.cqu.edu.cn/deepin-cd/25.0.1/amd64/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1709015050807,
+            "title": "MacOS",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1721099657393,
+                "title": "MacOS官网",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1709015035678,
+                    "title": "管理你的 Apple ID",
+                    "icon": "https://logo.clearbit.com/appleid.apple.com",
+                    "url": "https://appleid.apple.com/account/manage"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1709015152839,
+                    "title": "数据和隐私",
+                    "icon": "https://logo.clearbit.com/privacy.apple.com",
+                    "url": "https://privacy.apple.com/"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1709005123271,
+                "title": "如何在 VM 虚拟机上安装 macOS 14 索诺玛 最新系统? – 零度解说",
+                "icon": "https://logo.clearbit.com/www.freedidi.com",
+                "url": "https://www.freedidi.com/9945.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1709005148855,
+                "title": "macOS Sonoma ISO",
+                "icon": "https://logo.clearbit.com/www.mediafire.com",
+                "url": "https://www.mediafire.com/file/lzlounvkwazy948/macOS+Sonoma+ISO.iso/file"
+              },
+              {
+                "type": "link",
+                "addDate": 1709005264712,
+                "title": "paolo-projects/unlocker: VMware Workstation macOS",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/paolo-projects/unlocker"
+              },
+              {
+                "type": "link",
+                "addDate": 1709006391425,
+                "title": "【一定能解决】虚拟机安装mac系统报错：客户机操作系统已禁用 CPU，请关闭或重置虚拟机_用虚拟机装苹果系统的时候显示客户机操作系统-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_46585199/article/details/122147713"
+              },
+              {
+                "type": "link",
+                "addDate": 1746746356015,
+                "title": "虚拟机安装 macOS 黑苹果系统！所需要的资料-零度博客",
+                "icon": "https://logo.clearbit.com/www.freedidi.com",
+                "url": "https://www.freedidi.com/5257.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1746746379822,
+                "title": "macOS Big Sur 11.0.1 (20B29)",
+                "icon": "https://logo.clearbit.com/www.mediafire.com",
+                "url": "https://www.mediafire.com/file/dbfod9u5q9ii9nd/macOS_Big_Sur_11.0.1_%252820B29%2529.iso/file"
+              },
+              {
+                "type": "link",
+                "addDate": 1746746407966,
+                "title": "paolo-projects/auto-unlocker: Unlocker for VMWare macOS",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/paolo-projects/auto-unlocker"
+              },
+              {
+                "type": "folder",
+                "addDate": 1746764241240,
+                "title": "macOS Sequoia15",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1746764256841,
+                    "title": "Windows VMware 一键使用 macOS Sequoia15黑苹果屋OpenCore引导 免安装版（unlocker解锁补丁版） - 黑苹果屋",
+                    "icon": "https://logo.clearbit.com/imacos.top",
+                    "url": "https://imacos.top/2025/04/29/4512-2/"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1746773523260,
+                "title": "macOS系统下载|macOS原版系统,mac系统ISO镜像永久免费下载 - 苹果系统之家",
+                "icon": "https://logo.clearbit.com/macoshome.com",
+                "url": "https://macoshome.com/macos"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1747471855101,
+            "title": "鸿蒙",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1747471914459,
+                "title": "DevEco Studio",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1747471808579,
+                    "title": "最新版本 - 下载中心 - 华为开发者联盟",
+                    "icon": "https://logo.clearbit.com/developer.huawei.com",
+                    "url": "https://developer.huawei.com/consumer/cn/download/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1747474123033,
+                    "title": "在Windows电脑上启动模拟器，提示未开启Hyper-V-应用运行-DevEco Studio-开发 - 华为HarmonyOS开发者",
+                    "icon": "https://logo.clearbit.com/developer.huawei.com",
+                    "url": "https://developer.huawei.com/consumer/cn/doc/harmonyos-faqs/faqs-app-running-10"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1712115066270,
+            "title": "manjaro",
             "children": [
               {
                 "type": "link",
-                "addDate": 1717579181807,
-                "title": "VMware虚拟机安装Ubuntu24.04教程（中文）_ubuntu24.04下载-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/qq_44490498/article/details/138261865"
-              },
-              {
-                "type": "link",
-                "addDate": 1717579309097,
-                "title": "下载Ubuntu桌面系统 | Ubuntu",
-                "icon": "https://logo.clearbit.com/cn.ubuntu.com",
-                "url": "https://cn.ubuntu.com/download/desktop"
-              },
-              {
-                "type": "link",
-                "addDate": 1718082617637,
-                "title": "【Ubuntu】Ubuntu22.04更新软件源_ubuntu22.04换源-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/dengjin20104042056/article/details/131745035"
-              },
-              {
-                "type": "link",
-                "addDate": 1718082644997,
-                "title": "openssh-server安装之后有的时候 vi /etc/ssh/sshd_config文件为空，特意贴出ubun安装之后有的时候 vim /etc/ssh/sshd_config文件为空_ssh的config文件空白-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/weimw123/article/details/134891789"
-              },
-              {
-                "type": "link",
-                "addDate": 1739881257880,
-                "title": "kali 窗口栏消失解决办法_kali顶端菜单栏不见了-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/weixin_43376075/article/details/134347545"
-              },
-              {
-                "type": "link",
-                "addDate": 1744930619458,
-                "title": "OpenFDE - 可以使用任意安卓应用、玩安卓游戏的 Linux 桌面",
-                "icon": "https://logo.clearbit.com/openfde.com",
-                "url": "https://openfde.com/zh-CN"
+                "addDate": 1712115048294,
+                "title": "Manjaro 下载",
+                "icon": "https://logo.clearbit.com/manjaro.org",
+                "url": "https://manjaro.org/download/"
               }
             ]
           },
@@ -28166,48 +28425,6 @@
                     "title": "pbatard/rufus：可靠的 USB 格式化工具 --- pbatard/rufus: The Reliable USB Formatting Utility",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/pbatard/rufus"
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1749682922153,
-                    "title": "Ventoy",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1749682883746,
-                        "title": "Ventoy",
-                        "icon": "https://logo.clearbit.com/www.ventoy.net",
-                        "url": "https://www.ventoy.net/cn/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1749682946525,
-                        "title": "Download . Ventoy",
-                        "icon": "https://logo.clearbit.com/www.ventoy.net",
-                        "url": "https://www.ventoy.net/cn/download.html"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1749682961674,
-                        "title": "Releases · ventoy/Ventoy",
-                        "icon": "https://logo.clearbit.com/github.com",
-                        "url": "https://github.com/ventoy/Ventoy/releases"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1749682989114,
-                        "title": "VentoyRelease",
-                        "icon": "https://logo.clearbit.com/www.lanzoui.com",
-                        "url": "https://www.lanzoui.com/b01bd54gb"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1749683752119,
-                        "title": "Ventoy 使用教程, 当下最好用的U盘启动盘制作神器！ - 经验交流 - 零度社区",
-                        "icon": "https://logo.clearbit.com/bbs.freedidi.com",
-                        "url": "https://bbs.freedidi.com/t/topic/259"
-                      }
-                    ]
                   }
                 ]
               },
@@ -28238,34 +28455,6 @@
                     "url": "https://cameyo.com/"
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1735995026028,
-            "title": "wubuntu",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1735995007909,
-                "title": "Wubuntu 一款最像 Windows 11 的 Linux系统-零度博客",
-                "icon": "https://logo.clearbit.com/www.freedidi.com",
-                "url": "https://www.freedidi.com/17736.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1735995172005,
-                "title": "下载 - Windows Ubuntu 操作系统 --- Download – Windows Ubuntu Operating System",
-                "icon": "https://logo.clearbit.com/wubuntu.org",
-                "url": "https://wubuntu.org/download/"
-              },
-              {
-                "type": "link",
-                "addDate": 1735995235333,
-                "title": "Wubuntu Operating System - Browse Files at SourceForge.net",
-                "icon": "https://logo.clearbit.com/sourceforge.net",
-                "url": "https://sourceforge.net/projects/windows-ubuntu/files/"
               }
             ]
           },
@@ -28334,246 +28523,92 @@
           },
           {
             "type": "folder",
-            "addDate": 1744272834122,
-            "title": "Kali Linux",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1744272807699,
-                "title": "Get Kali | Kali Linux --- Get Kali | Kali Linux",
-                "icon": "https://logo.clearbit.com/www.kali.org",
-                "url": "https://www.kali.org/get-kali/#kali-installer-images"
-              },
-              {
-                "type": "link",
-                "addDate": 1704196534784,
-                "title": "Get Kali | Kali Linux",
-                "icon": "https://logo.clearbit.com/www.kali.org",
-                "url": "https://www.kali.org/get-kali/#kali-virtual-machines"
-              },
-              {
-                "type": "folder",
-                "addDate": 1744275769217,
-                "title": "config",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1744275760719,
-                    "title": "Kali Linux 2024.4语言设置成中文-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/qq317781007/article/details/145588200"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1748312241355,
-                "title": "换源",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1748312222249,
-                    "title": "Kali 更换源（超详细，附国内优质镜像源地址）_kali换源-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/2401_85280228/article/details/146268295"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1748312944969,
-                    "title": "kali update 报错，换中科大源_kali update报错-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/qq_24768591/article/details/143944816"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1748313414322,
-                    "title": "kali更新源7_kali 最新apt源-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/qq_44624916/article/details/143263111"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1745678686110,
-            "title": "RHEL",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1745678662663,
-                "title": "Red Hat Enterprise Linux 9.5 发布下载，新增功能概览Red Hat Enterprise L - 掘金",
-                "icon": "https://logo.clearbit.com/juejin.cn",
-                "url": "https://juejin.cn/post/7437697944688836659"
-              },
-              {
-                "type": "link",
-                "addDate": 1745678714046,
-                "title": "Red Hat Enterprise Linux 9.5 (x86_64, aarch64) - 红帽企业 Linux (RHEL) - sysin | SYStem INside | 软件与技术分享",
-                "icon": "https://logo.clearbit.com/sysin.org",
-                "url": "https://sysin.org/blog/rhel-9/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1746928147084,
-            "title": "Parrot OS",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1746928125281,
-                "title": "Parrot Security",
-                "icon": "https://logo.clearbit.com/www.parrotsec.org",
-                "url": "https://www.parrotsec.org/"
-              },
-              {
-                "type": "link",
-                "addDate": 1746928217615,
-                "title": "Parrot Security --- Parrot Security",
-                "icon": "https://logo.clearbit.com/parrotsec.org",
-                "url": "https://parrotsec.org/download/"
-              },
-              {
-                "type": "link",
-                "addDate": 1746931220253,
-                "title": "Parrot 6.3 Release Notes",
-                "icon": "https://logo.clearbit.com/www.parrotsec.org",
-                "url": "https://www.parrotsec.org/blog/2025-01-31-parrot-6.3-release-notes/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1747471855101,
-            "title": "鸿蒙",
-            "children": [
-              {
-                "type": "folder",
-                "addDate": 1747471914459,
-                "title": "DevEco Studio",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1747471808579,
-                    "title": "最新版本 - 下载中心 - 华为开发者联盟",
-                    "icon": "https://logo.clearbit.com/developer.huawei.com",
-                    "url": "https://developer.huawei.com/consumer/cn/download/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1747474123033,
-                    "title": "在Windows电脑上启动模拟器，提示未开启Hyper-V-应用运行-DevEco Studio-开发 - 华为HarmonyOS开发者",
-                    "icon": "https://logo.clearbit.com/developer.huawei.com",
-                    "url": "https://developer.huawei.com/consumer/cn/doc/harmonyos-faqs/faqs-app-running-10"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1748253306109,
-            "title": "Debian",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1748253285038,
-                "title": "Debian -- Debian 安装程序",
-                "icon": "https://logo.clearbit.com/www.debian.org",
-                "url": "https://www.debian.org/devel/debian-installer/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1749553972553,
+            "addDate": 1750391011434,
             "title": "飞牛NAS",
             "children": [
               {
                 "type": "link",
-                "addDate": 1749553945145,
-                "title": "飞牛私有云 fnOS",
+                "addDate": 1750391046195,
+                "title": "飞牛 fnOS",
                 "icon": "https://logo.clearbit.com/www.fnnas.com",
                 "url": "https://www.fnnas.com/"
               },
               {
-                "type": "link",
-                "addDate": 1749554052353,
-                "title": "飞牛账号 - 飞牛私有云 fnOS",
-                "icon": "https://logo.clearbit.com/account.fnnas.com",
-                "url": "https://account.fnnas.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749554059481,
-                "title": "FN Connect 远程访问 - 飞牛私有云 fnOS",
-                "icon": "https://logo.clearbit.com/fnos.net",
-                "url": "https://fnos.net/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749554180865,
-                "title": "帮助中心 - 飞牛私有云fnOS",
-                "icon": "https://logo.clearbit.com/help.fnnas.com",
-                "url": "https://help.fnnas.com/articles/fnosV1/start/install-os.md"
-              },
-              {
-                "type": "link",
-                "addDate": 1749558269946,
-                "title": "飞牛远程连接",
-                "icon": "https://logo.clearbit.com/fantasycat.fnos.net",
-                "url": "http://fantasycat.fnos.net/"
+                "type": "folder",
+                "addDate": 1750733349326,
+                "title": "连接",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1750391388887,
+                    "title": "FN Connect 远程访问 - 飞牛私有云 fnOS",
+                    "icon": "https://logo.clearbit.com/fnos.net",
+                    "url": "https://fnos.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750148466897,
+                    "title": "fnos - 飞牛私有云fnOS",
+                    "icon": "https://logo.clearbit.com/papaww.fnos.net",
+                    "url": "https://papaww.fnos.net/"
+                  }
+                ]
               },
               {
                 "type": "folder",
-                "addDate": 1749966426872,
+                "addDate": 1750910747444,
                 "title": "云服务器部署",
                 "children": [
                   {
                     "type": "link",
-                    "addDate": 1749966398032,
+                    "addDate": 1750910776166,
                     "title": "飞牛fnos使用说明 | pkl1997 - 代码如诗。",
                     "icon": "https://logo.clearbit.com/www.pkl1997.top",
                     "url": "http://www.pkl1997.top:4060/archives/932.html"
                   },
                   {
                     "type": "link",
-                    "addDate": 1749966691863,
+                    "addDate": 1750910793985,
                     "title": "Bin / reinstall · GitLab",
                     "icon": "https://logo.clearbit.com/jihulab.com",
                     "url": "https://jihulab.com/bin456789/reinstall"
                   },
                   {
                     "type": "link",
-                    "addDate": 1749966768663,
+                    "addDate": 1750910800600,
                     "title": "raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh",
                     "icon": "https://logo.clearbit.com/raw.githubusercontent.com",
                     "url": "https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh"
                   },
                   {
                     "type": "link",
-                    "addDate": 1749966922382,
+                    "addDate": 1750910808116,
                     "title": "reinstall/reinstall.sh at main · bin456789/reinstall",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/bin456789/reinstall/blob/main/reinstall.sh"
                   },
                   {
                     "type": "link",
-                    "addDate": 1749967082927,
+                    "addDate": 1750910819912,
                     "title": "bin456789/reinstall: 一键DD/重装脚本 (One-click reinstall OS on VPS)",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/bin456789/reinstall"
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1751855635917,
+            "title": "TrueNas",
+            "children": [
               {
                 "type": "link",
-                "addDate": 1749971022351,
-                "title": "飞牛远程连接",
-                "icon": "https://logo.clearbit.com/fnos.net",
-                "url": "https://fnos.net/papaww"
+                "addDate": 1751855616158,
+                "title": "TrueNAS: The Home of Open Enterprise Storage",
+                "icon": "https://logo.clearbit.com/www.truenas.com",
+                "url": "https://www.truenas.com/"
               }
             ]
           }
@@ -29789,15 +29824,22 @@
           },
           {
             "type": "folder",
-            "addDate": 1748411532494,
-            "title": "tts",
+            "addDate": 1751538535435,
+            "title": "NVIDIA",
             "children": [
               {
                 "type": "link",
-                "addDate": 1748411501690,
-                "title": "index-tts/index-tts: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/index-tts/index-tts"
+                "addDate": 1751538500892,
+                "title": "NVIDIA GeForce 驱动程序 - N 卡驱动 | NVIDIA",
+                "icon": "https://logo.clearbit.com/www.nvidia.cn",
+                "url": "https://www.nvidia.cn/geforce/drivers/"
+              },
+              {
+                "type": "link",
+                "addDate": 1751538630066,
+                "title": "下载面向游戏玩家和创作者的 NVIDIA App | NVIDIA",
+                "icon": "https://logo.clearbit.com/www.nvidia.cn",
+                "url": "https://www.nvidia.cn/software/nvidia-app/"
               }
             ]
           }
@@ -30444,20 +30486,20 @@
                 "url": "http://www.xn--ghqy5t5uf651b82d.com/#/?id=ep186-%E8%BF%B7%E4%BD%A0%E7%94%B5%E8%84%91%EF%BC%8C%E4%BD%8615%E5%9D%97%E9%92%B1%E5%8C%85%E9%82%AE"
               }
             ]
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1748425540255,
-        "title": "购物",
-        "children": [
+          },
           {
             "type": "link",
-            "addDate": 1748425543920,
-            "title": "淘宝",
-            "icon": "https://logo.clearbit.com/www.taobao.com",
-            "url": "https://www.taobao.com/"
+            "addDate": 1751180392411,
+            "title": "展锐刷机工具.zip - STDC 的分享",
+            "icon": "https://logo.clearbit.com/url65.ctfile.com",
+            "url": "https://url65.ctfile.com/f/20452365-1051281038-02eae1?pwd=6830#6830"
+          },
+          {
+            "type": "link",
+            "addDate": 1751183624029,
+            "title": "折腾随身wifi过程中的亿点小记（上）：备份刷机-腾讯云开发者社区-腾讯云",
+            "icon": "https://logo.clearbit.com/cloud.tencent.com",
+            "url": "https://cloud.tencent.com/developer/article/2299312"
           }
         ]
       }
